@@ -1,0 +1,1060 @@
+"order_id","order_date","product_name","category_name","quantity","sale_amount","profit","ship_country","customer"
+10400,1997-01-01,Thüringer Rostbratwurst,Meat/Poultry,21,2079.0,168.84001922607422,UK,Eastern Connection
+10400,1997-01-01,Steeleye Stout,Beverages,35,503.99998664855957,14.349994659423828,UK,Eastern Connection
+10400,1997-01-01,Maxilaku,Confections,30,480.0,-25.20000457763672,UK,Eastern Connection
+10401,1997-01-01,Nord-Ost Matjeshering,Seafood,18,372.60001373291016,-10.259994506835938,USA,Rattlesnake Canyon Grocery
+10401,1997-01-01,Gnocchi di nonna Alice,Grains/Cereals,70,2127.999973297119,484.4000053405762,USA,Rattlesnake Canyon Grocery
+10401,1997-01-01,Louisiana Fiery Hot Pepper Sauce,Condiments,20,335.99998474121094,18.59996795654297,USA,Rattlesnake Canyon Grocery
+10401,1997-01-01,Flotemysost,Dairy Products,60,1032.0000457763672,197.40005493164062,USA,Rattlesnake Canyon Grocery
+10402,1997-01-02,Tunnbröd,Grains/Cereals,60,431.9999885559082,13.799972534179688,Austria,Ernst Handel
+10402,1997-01-02,Vegie-spread,Condiments,65,2281.499900817871,98.15013885498047,Austria,Ernst Handel
+10403,1997-01-03,Pavlova,Confections,21,248.11499145090585,-60.007499780953026,Austria,Ernst Handel
+10403,1997-01-03,Chocolade,Confections,70,606.8999843955041,-72.9750133305788,Austria,Ernst Handel
+10404,1997-01-03,Gumbär Gummibärchen,Confections,30,709.6499885715544,-77.74496339030566,Italy,Magazzini Alimentari Riuniti
+10404,1997-01-03,Singaporean Hokkien Fried Mee,Grains/Cereals,40,425.59999241828916,31.999999582767487,Italy,Magazzini Alimentari Riuniti
+10404,1997-01-03,Maxilaku,Confections,30,455.99999964237213,-55.200005024671555,Italy,Magazzini Alimentari Riuniti
+10405,1997-01-06,Aniseed Syrup,Condiments,50,400.0,65.50002098083496,Venezuela,LINO-Delicateses
+10406,1997-01-07,Chai,Beverages,10,143.99999618530273,-3.9999961853027344,Brazil,Queen Cozinha
+10406,1997-01-07,Sir Rodney's Scones,Confections,30,215.99999964237213,18.599996119737625,Brazil,Queen Cozinha
+10406,1997-01-07,Rössle Sauerkraut,Produce,42,1375.9200554001332,-108.36001567125322,Brazil,Queen Cozinha
+10406,1997-01-07,Inlagd Sill,Seafood,5,68.39999902844428,7.5499990954995155,Brazil,Queen Cozinha
+10406,1997-01-07,Boston Crab Meat,Seafood,2,26.459999612867833,0.11999925851822013,Brazil,Queen Cozinha
+10407,1997-01-07,Queso Cabrales,Dairy Products,30,503.9999771118164,13.799972534179688,Germany,Ottilies Käseladen
+10407,1997-01-07,Gudbrandsdalsost,Dairy Products,15,431.9999885559082,79.35001373291016,Germany,Ottilies Käseladen
+10407,1997-01-07,Flotemysost,Dairy Products,15,258.0000114440918,49.350013732910156,Germany,Ottilies Käseladen
+10408,1997-01-08,Gravad lax,Seafood,10,207.99999237060547,2.0000076293945312,France,Folies gourmandes
+10408,1997-01-08,Tourtière,Meat/Poultry,6,35.40000057220459,0.6599979400634766,France,Folies gourmandes
+10408,1997-01-08,Tarte au sucre,Confections,35,1379.0000534057617,74.1999626159668,France,Folies gourmandes
+10409,1997-01-09,Tofu,Produce,12,223.20000457763672,-2.0400009155273438,Argentina,Océano Atlántico Ltda.
+10409,1997-01-09,Sir Rodney's Scones,Confections,12,96.0,19.439998626708984,Argentina,Océano Atlántico Ltda.
+10410,1997-01-10,Geitost,Dairy Products,49,98.0,2.449997663497925,Canada,Bottom-Dollar Markets
+10410,1997-01-10,Raclette Courdavault,Dairy Products,16,704.0,162.08001708984375,Canada,Bottom-Dollar Markets
+10411,1997-01-10,Jack's New England Clam Chowder,Seafood,25,153.99999561160803,-51.750007394701214,Canada,Bottom-Dollar Markets
+10411,1997-01-10,Gula Malacca,Condiments,40,495.999998152256,-96.7999595940114,Canada,Bottom-Dollar Markets
+10411,1997-01-10,Raclette Courdavault,Dairy Products,9,316.79999881982803,-7.829991862177849,Canada,Bottom-Dollar Markets
+10412,1997-01-13,Tofu,Produce,20,334.80000631213187,-49.9000022187829,Finland,Wartian Herkku
+10413,1997-01-14,Chai,Beverages,24,345.59999084472656,-9.599990844726562,France,La maison d'Asie
+10413,1997-01-14,Tarte au sucre,Confections,40,1576.0000610351562,84.79995727539062,France,La maison d'Asie
+10413,1997-01-14,Lakkalikööri,Beverages,14,201.59999465942383,4.760002136230469,France,La maison d'Asie
+10414,1997-01-14,Teatime Chocolate Biscuits,Confections,18,124.83000316366554,-0.3600075048208282,Brazil,Familia Arquibaldo
+10414,1997-01-14,Geitost,Dairy Products,50,100.0,2.499997615814209,Brazil,Familia Arquibaldo
+10415,1997-01-15,Alice Mutton,Meat/Poultry,2,62.400001525878906,11.239997863769531,USA,Hungry Coyote Import Store
+10415,1997-01-15,Geitost,Dairy Products,20,40.0,0.9999990463256836,USA,Hungry Coyote Import Store
+10416,1997-01-16,Teatime Chocolate Biscuits,Confections,20,146.00000381469727,8.799991607666016,Finland,Wartian Herkku
+10416,1997-01-16,Perth Pasties,Meat/Poultry,10,262.00000762939453,-0.1000213623046875,Finland,Wartian Herkku
+10416,1997-01-16,Ravioli Angelo,Grains/Cereals,20,312.00000762939453,47.40001678466797,Finland,Wartian Herkku
+10417,1997-01-16,Côte de Blaye,Beverages,50,10540.00015258789,701.9996643066406,Denmark,Simons bistro
+10417,1997-01-16,Spegesild,Seafood,2,14.40000057220459,-2.200000762939453,Denmark,Simons bistro
+10417,1997-01-16,Scottish Longbreads,Confections,36,270.0,-55.62000274658203,Denmark,Simons bistro
+10417,1997-01-16,Original Frankfurter grüne Soße,Condiments,35,363.99998664855957,21.00001335144043,Denmark,Simons bistro
+10418,1997-01-17,Chang,Beverages,60,911.9999885559082,-33.59996795654297,Germany,QUICK-Stop
+10418,1997-01-17,Zaanse koeken,Confections,55,417.99999475479126,-25.850014686584473,Germany,QUICK-Stop
+10418,1997-01-17,Sirop d'érable,Condiments,16,364.79998779296875,61.920013427734375,Germany,QUICK-Stop
+10418,1997-01-17,Longlife Tofu,Produce,15,120.0,-7.050004005432129,Germany,QUICK-Stop
+10419,1997-01-20,Camembert Pierrot,Dairy Products,60,1550.400042271614,-202.80001983046532,Switzerland,Richter Supermarkt
+10419,1997-01-20,Gudbrandsdalsost,Dairy Products,20,547.1999850749969,69.80001777410507,Switzerland,Richter Supermarkt
+10420,1997-01-21,Mishi Kobe Niku,Meat/Poultry,20,1396.7999702215195,-138.60007002949715,Brazil,Wellington Importadora
+10420,1997-01-21,Konbu,Seafood,2,8.640000329017639,-1.4600002467632294,Brazil,Wellington Importadora
+10420,1997-01-21,Outback Lager,Beverages,8,86.39999985694885,-0.8799974322319031,Brazil,Wellington Importadora
+10420,1997-01-21,Röd Kaviar,Seafood,20,215.99999964237213,6.399993449449539,Brazil,Wellington Importadora
+10421,1997-01-21,Teatime Chocolate Biscuits,Confections,4,24.820000474452968,-3.760001783370967,Brazil,Que Delícia
+10421,1997-01-21,Gumbär Gummibärchen,Confections,30,746.9999885559082,-30.89996337890625,Brazil,Que Delícia
+10421,1997-01-21,Perth Pasties,Meat/Poultry,15,334.0500073850154,-73.95003325939172,Brazil,Que Delícia
+10421,1997-01-21,Original Frankfurter grüne Soße,Condiments,10,88.39999613761904,-13.499996960163116,Brazil,Que Delícia
+10422,1997-01-22,Gumbär Gummibärchen,Confections,2,49.79999923706055,-2.05999755859375,Italy,Franchi S.p.A.
+10423,1997-01-23,Gorgonzola Telino,Dairy Products,14,140.0,17.640003204345703,Brazil,Gourmet Lanchonetes
+10423,1997-01-23,Raclette Courdavault,Dairy Products,20,880.0,202.6000213623047,Brazil,Gourmet Lanchonetes
+10424,1997-01-23,Steeleye Stout,Beverages,60,691.1999791145325,-191.40001237392426,Canada,Mère Paillarde
+10424,1997-01-23,Côte de Blaye,Beverages,49,8263.360088845491,-1894.3403674587607,Canada,Mère Paillarde
+10424,1997-01-23,Scottish Longbreads,Confections,30,239.99999910593033,-27.60000340640545,Canada,Mère Paillarde
+10425,1997-01-24,Pâté chinois,Meat/Poultry,10,144.0000057220459,-66.80000305175781,France,La maison d'Asie
+10425,1997-01-24,Lakkalikööri,Beverages,20,215.9999942779541,-83.19999694824219,France,La maison d'Asie
+10426,1997-01-27,Gnocchi di nonna Alice,Grains/Cereals,5,151.99999809265137,34.60000038146973,Spain,Galería del gastrónomo
+10426,1997-01-27,Wimmers gute Semmelknödel,Grains/Cereals,7,186.2000026702881,28.0,Spain,Galería del gastrónomo
+10427,1997-01-27,Tofu,Produce,35,651.0000133514404,-5.950002670288086,Austria,Piccolo und mehr
+10428,1997-01-28,Spegesild,Seafood,20,192.00000762939453,37.99999237060547,Italy,Reggiani Caseifici
+10429,1997-01-29,Valkoinen suklaa,Confections,40,520.0,22.79998779296875,Ireland,Hungry Owl All-Night Grocers
+10429,1997-01-29,Vegie-spread,Condiments,35,921.3749599456787,-331.274938583374,Ireland,Hungry Owl All-Night Grocers
+10430,1997-01-30,Alice Mutton,Meat/Poultry,45,1123.2000232815742,-98.10005329549313,Austria,Ernst Handel
+10430,1997-01-30,Sir Rodney's Scones,Confections,50,400.0,80.9999942779541,Austria,Ernst Handel
+10430,1997-01-30,Gnocchi di nonna Alice,Grains/Cereals,30,911.9999885559082,207.60000228881836,Austria,Ernst Handel
+10430,1997-01-30,Raclette Courdavault,Dairy Products,70,2463.9999908208847,-60.89993670582771,Austria,Ernst Handel
+10431,1997-01-30,Alice Mutton,Meat/Poultry,50,1170.0000286102295,-206.50005340576172,Canada,Bottom-Dollar Markets
+10431,1997-01-30,Boston Crab Meat,Seafood,50,551.2499928474426,-135.00001430511475,Canada,Bottom-Dollar Markets
+10431,1997-01-30,Zaanse koeken,Confections,30,170.9999978542328,-85.35000801086426,Canada,Bottom-Dollar Markets
+10432,1997-01-31,Gumbär Gummibärchen,Confections,10,248.99999618530273,-10.29998779296875,USA,Split Rail Beer & Ale
+10432,1997-01-31,Tourtière,Meat/Poultry,40,236.00000381469727,4.399986267089844,USA,Split Rail Beer & Ale
+10433,1997-02-03,Gnocchi di nonna Alice,Grains/Cereals,28,851.1999893188477,193.76000213623047,Portugal,Princesa Isabel Vinhos
+10434,1997-02-03,Queso Cabrales,Dairy Products,6,100.79999542236328,2.7599945068359375,Sweden,Folk och fä HB
+10434,1997-02-03,Lakkalikööri,Beverages,18,220.31999261856083,-42.47999918460846,Sweden,Folk och fä HB
+10435,1997-02-04,Chang,Beverages,10,151.99999809265137,-5.599994659423828,UK,Consolidated Holdings
+10435,1997-02-04,Gustaf's Knäckebröd,Grains/Cereals,12,201.59999084472656,42.59999084472656,UK,Consolidated Holdings
+10435,1997-02-04,Mozzarella di Giovanni,Dairy Products,10,277.99999237060547,-5.300025939941406,UK,Consolidated Holdings
+10436,1997-02-05,Spegesild,Seafood,5,48.00000190734863,9.499998092651367,France,Blondesddsl père et fils
+10436,1997-02-05,Gnocchi di nonna Alice,Grains/Cereals,40,1094.3999844551086,124.80000078678131,France,Blondesddsl père et fils
+10436,1997-02-05,Wimmers gute Semmelknödel,Grains/Cereals,30,718.2000091105699,20.24999851360917,France,Blondesddsl père et fils
+10436,1997-02-05,Rhönbräu Klosterbier,Beverages,24,133.91999565839768,-24.84000577032566,France,Blondesddsl père et fils
+10437,1997-02-05,Perth Pasties,Meat/Poultry,15,393.0000114440918,-0.15003204345703125,Finland,Wartian Herkku
+10438,1997-02-06,Teatime Chocolate Biscuits,Confections,15,87.60000196248292,-21.00000613331794,Germany,Toms Spezialitäten
+10438,1997-02-06,Sasquatch Ale,Beverages,20,179.19999628067018,-5.799996256828308,Germany,Toms Spezialitäten
+10438,1997-02-06,Ravioli Angelo,Grains/Cereals,15,187.20000388026236,-22.949988283216953,Germany,Toms Spezialitäten
+10439,1997-02-07,Queso Manchego La Pastora,Dairy Products,15,455.9999942779541,13.64999771118164,Canada,Mère Paillarde
+10439,1997-02-07,Pavlova,Confections,16,222.39999389648438,-3.839996337890625,Canada,Mère Paillarde
+10439,1997-02-07,Wimmers gute Semmelknödel,Grains/Cereals,6,159.60000228881836,24.0,Canada,Mère Paillarde
+10439,1997-02-07,Longlife Tofu,Produce,30,240.0,-14.100008010864258,Canada,Mère Paillarde
+10440,1997-02-10,Chang,Beverages,45,581.3999886274338,-153.44998106360435,USA,Save-a-lot Markets
+10440,1997-02-10,Pavlova,Confections,49,578.9349800521136,-140.0174994888904,USA,Save-a-lot Markets
+10440,1997-02-10,Thüringer Rostbratwurst,Meat/Poultry,24,2019.5999858379364,-252.68399903154386,USA,Save-a-lot Markets
+10440,1997-02-10,Sirop d'érable,Condiments,90,1744.1999294042591,-36.449939757585526,USA,Save-a-lot Markets
+10441,1997-02-10,Schoggi Schokolade,Confections,50,1754.9999237060547,368.0000305175781,USA,Old World Delicatessen
+10442,1997-02-11,Queso Cabrales,Dairy Products,30,503.9999771118164,13.799972534179688,Austria,Ernst Handel
+10442,1997-02-11,Tourtière,Meat/Poultry,80,472.00000762939453,8.799972534179688,Austria,Ernst Handel
+10442,1997-02-11,Louisiana Hot Spiced Okra,Condiments,60,816.0000228881836,151.2000274658203,Austria,Ernst Handel
+10443,1997-02-12,Queso Cabrales,Dairy Products,6,80.63999603748323,-22.440005868673325,Italy,Reggiani Caseifici
+10443,1997-02-12,Rössle Sauerkraut,Produce,12,436.8000183105469,23.759994506835938,Italy,Reggiani Caseifici
+10444,1997-02-12,Alice Mutton,Meat/Poultry,10,312.00000762939453,56.199989318847656,Sweden,Berglunds snabbköp
+10444,1997-02-12,Gumbär Gummibärchen,Confections,15,373.4999942779541,-15.449981689453125,Sweden,Berglunds snabbköp
+10444,1997-02-12,Steeleye Stout,Beverages,8,115.19999694824219,3.279998779296875,Sweden,Berglunds snabbköp
+10444,1997-02-12,Jack's New England Clam Chowder,Seafood,30,230.9999942779541,-4.200010299682617,Sweden,Berglunds snabbköp
+10445,1997-02-13,Chartreuse verte,Beverages,6,86.39999771118164,12.540000915527344,Sweden,Berglunds snabbköp
+10445,1997-02-13,Tourtière,Meat/Poultry,15,88.50000143051147,1.6499948501586914,Sweden,Berglunds snabbköp
+10446,1997-02-14,Teatime Chocolate Biscuits,Confections,12,78.84000192940235,-5.760004971027371,Germany,Toms Spezialitäten
+10446,1997-02-14,Guaraná Fantástica,Beverages,20,64.79999817609787,5.000000819563866,Germany,Toms Spezialitäten
+10446,1997-02-14,Gorgonzola Telino,Dairy Products,3,26.999999955296516,0.030000630766153336,Germany,Toms Spezialitäten
+10446,1997-02-14,Filo Mix,Grains/Cereals,15,75.59999858736992,-3.1500035896897316,Germany,Toms Spezialitäten
+10447,1997-02-14,Teatime Chocolate Biscuits,Confections,40,292.00000762939453,17.59998321533203,Brazil,Ricardo Adocicados
+10447,1997-02-14,Louisiana Fiery Hot Pepper Sauce,Condiments,35,587.9999732971191,32.549943923950195,Brazil,Ricardo Adocicados
+10447,1997-02-14,Flotemysost,Dairy Products,2,34.400001525878906,6.5800018310546875,Brazil,Ricardo Adocicados
+10448,1997-02-17,Gumbär Gummibärchen,Confections,6,149.39999771118164,-6.17999267578125,Argentina,Rancho grande
+10448,1997-02-17,Boston Crab Meat,Seafood,20,293.99999618530273,37.99999237060547,Argentina,Rancho grande
+10449,1997-02-18,Ikura,Seafood,14,347.19998931884766,38.780006408691406,France,Blondesddsl père et fils
+10449,1997-02-18,Filo Mix,Grains/Cereals,20,111.99999809265137,9.799995422363281,France,Blondesddsl père et fils
+10449,1997-02-18,Tarte au sucre,Confections,35,1379.0000534057617,74.1999626159668,France,Blondesddsl père et fils
+10450,1997-02-19,Ikura,Seafood,20,396.7999863147736,-68.59999269247055,France,Victuailles en stock
+10450,1997-02-19,Tourtière,Meat/Poultry,6,28.32000035226345,-8.280001964271065,France,Victuailles en stock
+10451,1997-02-19,Pâté chinois,Meat/Poultry,120,2073.600078964233,-369.6000409126282,Germany,QUICK-Stop
+10451,1997-02-19,Wimmers gute Semmelknödel,Grains/Cereals,35,837.9000106289983,23.624998265877366,Germany,QUICK-Stop
+10451,1997-02-19,Louisiana Fiery Hot Pepper Sauce,Condiments,28,423.3599800729752,-32.900043602883784,Germany,QUICK-Stop
+10451,1997-02-19,Original Frankfurter grüne Soße,Condiments,55,514.7999802649022,-38.499980084598064,Germany,QUICK-Stop
+10452,1997-02-20,Rössle Sauerkraut,Produce,15,546.0000228881836,29.699993133544922,USA,Save-a-lot Markets
+10452,1997-02-20,Gula Malacca,Condiments,100,1472.49999884516,49.75011680647731,USA,Save-a-lot Markets
+10453,1997-02-21,Chocolade,Confections,15,137.6999971970916,-6.075002001598477,UK,Around the Horn
+10453,1997-02-21,Outback Lager,Beverages,25,269.99999955296516,-2.749991975724697,UK,Around the Horn
+10454,1997-02-21,Pavlova,Confections,20,222.39999306797984,-74.59999951422219,France,La maison d'Asie
+10454,1997-02-21,Geitost,Dairy Products,20,31.99999988079071,-9.000001102685928,France,La maison d'Asie
+10454,1997-02-21,Spegesild,Seafood,10,76.8000027656555,-5.000004172325134,France,La maison d'Asie
+10455,1997-02-24,Chartreuse verte,Beverages,20,287.99999237060547,41.80000305175781,Finland,Wartian Herkku
+10455,1997-02-24,Perth Pasties,Meat/Poultry,50,1310.0000381469727,-0.5001068115234375,Finland,Wartian Herkku
+10455,1997-02-24,Sirop d'érable,Condiments,25,569.9999809265137,96.75002098083496,Finland,Wartian Herkku
+10455,1997-02-24,Flotemysost,Dairy Products,30,516.0000228881836,98.70002746582031,Finland,Wartian Herkku
+10456,1997-02-25,Sir Rodney's Scones,Confections,40,271.99999809265137,4.79999303817749,Germany,Königlich Essen
+10456,1997-02-25,Maxilaku,Confections,21,285.59999799728394,-80.64000570774078,Germany,Königlich Essen
+10457,1997-02-25,Raclette Courdavault,Dairy Products,36,1584.0,364.68003845214844,Germany,Königlich Essen
+10458,1997-02-26,Gumbär Gummibärchen,Confections,30,746.9999885559082,-30.89996337890625,Belgium,Suprêmes délices
+10458,1997-02-26,Rössle Sauerkraut,Produce,30,1092.0000457763672,59.399986267089844,Belgium,Suprêmes délices
+10458,1997-02-26,Ipoh Coffee,Beverages,20,735.9999847412109,20.5999755859375,Belgium,Suprêmes délices
+10458,1997-02-26,Gnocchi di nonna Alice,Grains/Cereals,15,455.9999942779541,103.80000114440918,Belgium,Suprêmes délices
+10458,1997-02-26,Flotemysost,Dairy Products,50,860.0000381469727,164.5000457763672,Belgium,Suprêmes délices
+10459,1997-02-27,Uncle Bob's Organic Dried Pears,Produce,16,364.7999997138977,-4.480011343955994,France,Victuailles en stock
+10459,1997-02-27,Spegesild,Seafood,20,182.40000710487365,25.999992191791534,France,Victuailles en stock
+10459,1997-02-27,Mozzarella di Giovanni,Dairy Products,40,1111.9999694824219,-21.200103759765625,France,Victuailles en stock
+10460,1997-02-28,Scottish Longbreads,Confections,21,157.5,-32.44500160217285,Sweden,Folk och fä HB
+10460,1997-02-28,Rhönbräu Klosterbier,Beverages,4,18.59999942779541,-8.790000915527344,Sweden,Folk och fä HB
+10461,1997-02-28,Sir Rodney's Scones,Confections,40,240.0,-35.20000457763672,Venezuela,LILA-Supermercado
+10461,1997-02-28,Nord-Ost Matjeshering,Seafood,28,434.7000160217285,-197.1899871826172,Venezuela,LILA-Supermercado
+10461,1997-02-28,Pâté chinois,Meat/Poultry,60,864.0000343322754,-400.8000183105469,Venezuela,LILA-Supermercado
+10462,1997-03-03,Konbu,Seafood,1,4.800000190734863,-0.13000011444091797,UK,Consolidated Holdings
+10462,1997-03-03,Tunnbröd,Grains/Cereals,21,151.19999599456787,4.829990386962891,UK,Consolidated Holdings
+10463,1997-03-04,Teatime Chocolate Biscuits,Confections,21,153.30000400543213,9.239991188049316,Belgium,Suprêmes délices
+10463,1997-03-04,Singaporean Hokkien Fried Mee,Grains/Cereals,50,559.9999904632568,75.0,Belgium,Suprêmes délices
+10464,1997-03-04,Chef Anton's Cajun Seasoning,Condiments,16,225.28000404357908,-85.75998640060425,Portugal,Furia Bacalhau e Frutos do Mar
+10464,1997-03-04,Ipoh Coffee,Beverages,3,110.39999771118164,3.089996337890625,Portugal,Furia Bacalhau e Frutos do Mar
+10464,1997-03-04,Gnocchi di nonna Alice,Grains/Cereals,30,729.5999881267549,-20.400001108646393,Portugal,Furia Bacalhau e Frutos do Mar
+10464,1997-03-04,Camembert Pierrot,Dairy Products,20,544.0000152587891,-33.600006103515625,Portugal,Furia Bacalhau e Frutos do Mar
+10465,1997-03-05,Guaraná Fantástica,Beverages,25,89.99999761581421,17.500001192092896,Denmark,Vaffeljernet
+10465,1997-03-05,Thüringer Rostbratwurst,Meat/Poultry,18,1603.799997344613,-78.10198848876371,Denmark,Vaffeljernet
+10465,1997-03-05,Boston Crab Meat,Seafood,20,293.99999618530273,37.99999237060547,Denmark,Vaffeljernet
+10465,1997-03-05,Rogede sild,Seafood,30,205.19999708533288,27.300003580749035,Denmark,Vaffeljernet
+10465,1997-03-05,Valkoinen suklaa,Confections,25,325.0,14.249992370605469,Denmark,Vaffeljernet
+10466,1997-03-06,Queso Cabrales,Dairy Products,10,167.99999237060547,4.5999908447265625,Brazil,Comércio Mineiro
+10466,1997-03-06,Spegesild,Seafood,5,48.00000190734863,9.499998092651367,Brazil,Comércio Mineiro
+10467,1997-03-06,Guaraná Fantástica,Beverages,28,100.79999732971191,19.600001335144043,Italy,Magazzini Alimentari Riuniti
+10467,1997-03-06,NuNuCa Nuß-Nougat-Creme,Confections,12,134.39999771118164,-1.0800018310546875,Italy,Magazzini Alimentari Riuniti
+10468,1997-03-07,Nord-Ost Matjeshering,Seafood,8,165.60000610351562,-4.55999755859375,Germany,Königlich Essen
+10468,1997-03-07,Ipoh Coffee,Beverages,15,551.9999885559082,15.449981689453125,Germany,Königlich Essen
+10469,1997-03-10,Chang,Beverages,40,516.7999898910523,-136.39998316764832,USA,White Clover Markets
+10469,1997-03-10,Pavlova,Confections,35,413.52498575150975,-100.01249963492171,USA,White Clover Markets
+10469,1997-03-10,Gula Malacca,Condiments,2,26.3499998152256,-2.894998019337663,USA,White Clover Markets
+10470,1997-03-11,Carnarvon Tigers,Seafood,30,1500.0,293.10001373291016,France,Bon app'
+10470,1997-03-11,Tunnbröd,Grains/Cereals,15,107.99999713897705,3.449993133544922,France,Bon app'
+10470,1997-03-11,Wimmers gute Semmelknödel,Grains/Cereals,8,212.8000030517578,32.0,France,Bon app'
+10471,1997-03-11,Uncle Bob's Organic Dried Pears,Produce,30,720.0,36.599979400634766,UK,B's Beverages
+10471,1997-03-11,Gnocchi di nonna Alice,Grains/Cereals,20,607.9999923706055,138.4000015258789,UK,B's Beverages
+10472,1997-03-12,Guaraná Fantástica,Beverages,80,273.59999253749845,38.000003546476364,UK,Seven Seas Imports
+10472,1997-03-12,Manjimup Dried Apples,Produce,18,763.2000274658203,27.899986267089844,UK,Seven Seas Imports
+10473,1997-03-13,Geitost,Dairy Products,12,24.0,0.5999994277954102,UK,Island Trading
+10473,1997-03-13,Flotemysost,Dairy Products,12,206.40000915527344,39.480010986328125,UK,Island Trading
+10474,1997-03-13,Tofu,Produce,12,223.20000457763672,-2.0400009155273438,Mexico,Pericles Comidas clásicas
+10474,1997-03-13,Rössle Sauerkraut,Produce,18,655.2000274658203,35.639991760253906,Mexico,Pericles Comidas clásicas
+10474,1997-03-13,Boston Crab Meat,Seafood,21,308.69999599456787,39.89999198913574,Mexico,Pericles Comidas clásicas
+10474,1997-03-13,Rhönbräu Klosterbier,Beverages,10,61.99999809265137,-2.6000022888183594,Mexico,Pericles Comidas clásicas
+10475,1997-03-14,Gorgonzola Telino,Dairy Products,35,297.49999791383743,-21.52499459683895,Belgium,Suprêmes délices
+10475,1997-03-14,Louisiana Hot Spiced Okra,Condiments,60,693.6000145912169,-1.7999786138534546,Belgium,Suprêmes délices
+10475,1997-03-14,Lakkalikööri,Beverages,42,514.0799827766419,-99.11999809741974,Belgium,Suprêmes délices
+10476,1997-03-17,Pâté chinois,Meat/Poultry,2,36.48000142097473,-3.7600006461143494,Venezuela,HILARION-Abastos
+10476,1997-03-17,Outback Lager,Beverages,12,144.0,16.680004119873047,Venezuela,HILARION-Abastos
+10477,1997-03-17,Chai,Beverages,15,215.9999942779541,-5.999994277954102,Portugal,Princesa Isabel Vinhos
+10477,1997-03-17,Sir Rodney's Scones,Confections,21,126.0,-18.480002403259277,Portugal,Princesa Isabel Vinhos
+10477,1997-03-17,Chartreuse verte,Beverages,20,215.9999942779541,-48.19999694824219,Portugal,Princesa Isabel Vinhos
+10478,1997-03-18,Ikura,Seafood,20,471.1999851346016,24.40000869333744,France,Victuailles en stock
+10479,1997-03-19,Côte de Blaye,Beverages,30,6324.000091552734,421.1997985839844,USA,Rattlesnake Canyon Grocery
+10479,1997-03-19,Perth Pasties,Meat/Poultry,28,733.6000213623047,-0.280059814453125,USA,Rattlesnake Canyon Grocery
+10479,1997-03-19,Raclette Courdavault,Dairy Products,60,2640.0,607.8000640869141,USA,Rattlesnake Canyon Grocery
+10479,1997-03-19,Wimmers gute Semmelknödel,Grains/Cereals,30,798.0000114440918,120.0,USA,Rattlesnake Canyon Grocery
+10480,1997-03-20,Zaanse koeken,Confections,30,227.99999713897705,-14.100008010864258,France,Folies gourmandes
+10480,1997-03-20,Raclette Courdavault,Dairy Products,12,528.0,121.56001281738281,France,Folies gourmandes
+10481,1997-03-20,Maxilaku,Confections,24,384.0,-20.160003662109375,Brazil,Ricardo Adocicados
+10481,1997-03-20,Camembert Pierrot,Dairy Products,40,1088.0000305175781,-67.20001220703125,Brazil,Ricardo Adocicados
+10482,1997-03-21,Boston Crab Meat,Seafood,10,146.99999809265137,18.999996185302734,USA,Lazy K Kountry Store
+10483,1997-03-24,Sasquatch Ale,Beverages,35,372.39999336600306,63.35000764578581,USA,White Clover Markets
+10483,1997-03-24,Original Frankfurter grüne Soße,Condiments,30,296.3999888956547,-1.4999888464808464,USA,White Clover Markets
+10484,1997-03-24,Sir Rodney's Scones,Confections,14,112.0,22.67999839782715,UK,B's Beverages
+10484,1997-03-24,Boston Crab Meat,Seafood,10,146.99999809265137,18.999996185302734,UK,B's Beverages
+10484,1997-03-24,Manjimup Dried Apples,Produce,3,127.20000457763672,4.649997711181641,UK,B's Beverages
+10485,1997-03-25,Chang,Beverages,20,273.59999611377714,-49.19998988509178,Venezuela,LINO-Delicateses
+10485,1997-03-25,Aniseed Syrup,Condiments,20,143.99999976158142,6.2000080943107605,Venezuela,LINO-Delicateses
+10485,1997-03-25,Pâté chinois,Meat/Poultry,30,518.4000197410583,-92.40001022815704,Venezuela,LINO-Delicateses
+10485,1997-03-25,Outback Lager,Beverages,60,647.9999989271164,-6.599980741739273,Venezuela,LINO-Delicateses
+10486,1997-03-26,Queso Cabrales,Dairy Products,5,83.99999618530273,2.2999954223632812,Venezuela,HILARION-Abastos
+10486,1997-03-26,Manjimup Dried Apples,Produce,25,1060.0000381469727,38.74998092651367,Venezuela,HILARION-Abastos
+10486,1997-03-26,Longlife Tofu,Produce,16,128.0,-7.5200042724609375,Venezuela,HILARION-Abastos
+10487,1997-03-26,Teatime Chocolate Biscuits,Confections,5,36.500000953674316,2.199997901916504,Brazil,Queen Cozinha
+10487,1997-03-26,Gumbär Gummibärchen,Confections,30,746.9999885559082,-30.89996337890625,Brazil,Queen Cozinha
+10487,1997-03-26,Tourtière,Meat/Poultry,24,106.20000171661377,-42.060007095336914,Brazil,Queen Cozinha
+10488,1997-03-27,Raclette Courdavault,Dairy Products,30,1320.0,303.90003204345703,Germany,Frankenversand
+10488,1997-03-27,Röd Kaviar,Seafood,20,191.99999928474426,-23.600006997585297,Germany,Frankenversand
+10489,1997-03-28,Queso Cabrales,Dairy Products,15,188.99999141693115,-71.85001373291016,Austria,Piccolo und mehr
+10489,1997-03-28,Pavlova,Confections,18,250.19999313354492,-4.319995880126953,Austria,Piccolo und mehr
+10490,1997-03-31,Raclette Courdavault,Dairy Products,60,2640.0,607.8000640869141,Venezuela,HILARION-Abastos
+10490,1997-03-31,Scottish Longbreads,Confections,30,300.0,47.39999771118164,Venezuela,HILARION-Abastos
+10490,1997-03-31,Rhönbräu Klosterbier,Beverages,36,223.19999313354492,-9.360008239746094,Venezuela,HILARION-Abastos
+10491,1997-03-31,Gula Malacca,Condiments,15,197.624998614192,-21.712485145032474,Portugal,Furia Bacalhau e Frutos do Mar
+10491,1997-03-31,Original Frankfurter grüne Soße,Condiments,7,61.87999729633333,-9.449997872114182,Portugal,Furia Bacalhau e Frutos do Mar
+10492,1997-04-01,NuNuCa Nuß-Nougat-Creme,Confections,60,638.3999886274338,-47.40000978112221,Canada,Bottom-Dollar Markets
+10492,1997-04-01,Singaporean Hokkien Fried Mee,Grains/Cereals,20,212.79999620914458,15.999999791383743,Canada,Bottom-Dollar Markets
+10493,1997-04-02,Louisiana Fiery Hot Pepper Sauce,Condiments,15,226.79998932480814,-17.625023358687713,France,La maison d'Asie
+10493,1997-04-02,Louisiana Hot Spiced Okra,Condiments,10,122.40000323057174,8.200004324316978,France,La maison d'Asie
+10493,1997-04-02,Gudbrandsdalsost,Dairy Products,10,259.1999927043915,16.900008618831635,France,La maison d'Asie
+10494,1997-04-02,Gnocchi di nonna Alice,Grains/Cereals,30,911.9999885559082,207.60000228881836,Brazil,Comércio Mineiro
+10495,1997-04-03,Tunnbröd,Grains/Cereals,10,71.99999809265137,2.2999954223632812,Canada,Laughing Bacchus Wine Cellars
+10495,1997-04-03,Jack's New England Clam Chowder,Seafood,20,153.99999618530273,-2.800006866455078,Canada,Laughing Bacchus Wine Cellars
+10495,1997-04-03,Original Frankfurter grüne Soße,Condiments,5,51.99999809265137,3.000001907348633,Canada,Laughing Bacchus Wine Cellars
+10496,1997-04-04,Gorgonzola Telino,Dairy Products,20,189.9999998509884,12.700004391372204,Brazil,Tradição Hipermercados
+10497,1997-04-04,Gnocchi di nonna Alice,Grains/Cereals,14,425.5999946594238,96.88000106811523,Germany,Lehmanns Marktstand
+10497,1997-04-04,Mozzarella di Giovanni,Dairy Products,25,694.9999809265137,-13.250064849853516,Germany,Lehmanns Marktstand
+10497,1997-04-04,Original Frankfurter grüne Soße,Condiments,25,259.99999046325684,15.000009536743164,Germany,Lehmanns Marktstand
+10498,1997-04-07,Guaraná Fantástica,Beverages,14,63.0,9.800000667572021,Venezuela,HILARION-Abastos
+10498,1997-04-07,Boston Crab Meat,Seafood,5,91.99999809265137,9.499998092651367,Venezuela,HILARION-Abastos
+10498,1997-04-07,Singaporean Hokkien Fried Mee,Grains/Cereals,30,420.0,45.0,Venezuela,HILARION-Abastos
+10499,1997-04-08,Rössle Sauerkraut,Produce,20,911.9999694824219,39.59999084472656,Venezuela,LILA-Supermercado
+10499,1997-04-08,Maxilaku,Confections,25,500.0,-21.000003814697266,Venezuela,LILA-Supermercado
+10500,1997-04-09,Genen Shouyu,Condiments,12,176.6999998614192,-0.11999599635601044,France,La maison d'Asie
+10500,1997-04-09,Rössle Sauerkraut,Produce,8,346.55998813152314,-2.4000033235549836,France,La maison d'Asie
+10501,1997-04-09,Tourtière,Meat/Poultry,20,148.99999618530273,2.199993133544922,Germany,Blauer See Delikatessen
+10502,1997-04-10,Rogede sild,Seafood,21,199.5,39.06000280380249,Mexico,Pericles Comidas clásicas
+10502,1997-04-10,Perth Pasties,Meat/Poultry,6,196.79999542236328,-0.0600128173828125,Mexico,Pericles Comidas clásicas
+10502,1997-04-10,Laughing Lumberjack Lager,Beverages,30,420.0,3.900003433227539,Mexico,Pericles Comidas clásicas
+10503,1997-04-11,Tofu,Produce,70,1627.5,-11.900005340576172,Ireland,Hungry Owl All-Night Grocers
+10503,1997-04-11,Louisiana Fiery Hot Pepper Sauce,Condiments,20,420.99998474121094,18.59996795654297,Ireland,Hungry Owl All-Night Grocers
+10504,1997-04-11,Chang,Beverages,12,228.0,-6.719993591308594,USA,White Clover Markets
+10504,1997-04-11,Sir Rodney's Scones,Confections,12,120.0,19.439998626708984,USA,White Clover Markets
+10504,1997-04-11,Perth Pasties,Meat/Poultry,10,327.99999237060547,-0.1000213623046875,USA,White Clover Markets
+10504,1997-04-11,Sirop d'érable,Condiments,25,712.5,96.75002098083496,USA,White Clover Markets
+10505,1997-04-14,Tarte au sucre,Confections,3,147.89999771118164,6.359996795654297,Canada,Mère Paillarde
+10506,1997-04-15,NuNuCa Nuß-Nougat-Creme,Confections,18,226.79999962449074,-26.820003122091293,Germany,Königlich Essen
+10506,1997-04-15,Outback Lager,Beverages,14,188.99999968707561,-1.5399955064058304,Germany,Königlich Essen
+10507,1997-04-15,Ipoh Coffee,Beverages,15,586.4999958872795,-88.05002242326736,Mexico,Antonio Moreno Taquería
+10507,1997-04-15,Chocolade,Confections,15,162.56249886006117,-15.6375028565526,Mexico,Antonio Moreno Taquería
+10508,1997-04-16,Konbu,Seafood,10,60.0,-1.3000011444091797,Germany,Ottilies Käseladen
+10508,1997-04-16,Chartreuse verte,Beverages,10,180.0,20.900001525878906,Germany,Ottilies Käseladen
+10509,1997-04-17,Rössle Sauerkraut,Produce,3,136.79999542236328,5.939998626708984,Germany,Blauer See Delikatessen
+10510,1997-04-18,Thüringer Rostbratwurst,Meat/Poultry,36,4456.440032958984,289.4400329589844,USA,Save-a-lot Markets
+10510,1997-04-18,Rhönbräu Klosterbier,Beverages,36,251.0999995842576,-37.26000865548849,USA,Save-a-lot Markets
+10511,1997-04-18,Chef Anton's Cajun Seasoning,Condiments,50,934.9999934434891,-212.99996078014374,France,Bon app'
+10511,1997-04-18,Uncle Bob's Organic Dried Pears,Produce,50,1274.9999910593033,-164.0000432729721,France,Bon app'
+10511,1997-04-18,Northwoods Cranberry Sauce,Condiments,10,339.9999976158142,-14.799997806549072,France,Bon app'
+10512,1997-04-21,Guaraná Fantástica,Beverages,10,38.2499997317791,0.2500002086162567,Brazil,Familia Arquibaldo
+10512,1997-04-21,Spegesild,Seafood,9,91.79999935626984,0.8999959230422974,Brazil,Familia Arquibaldo
+10512,1997-04-21,Zaanse koeken,Confections,6,48.449999660253525,-11.370001941919327,Brazil,Familia Arquibaldo
+10512,1997-04-21,Camembert Pierrot,Dairy Products,12,346.7999975681305,-81.36000609397888,Brazil,Familia Arquibaldo
+10513,1997-04-22,Sir Rodney's Scones,Confections,40,319.9999988079071,-15.200005769729614,Germany,Die Wandernde Kuh
+10513,1997-04-22,Mascarpone Fabioli,Dairy Products,50,1279.9999952316284,-108.00001621246338,Germany,Die Wandernde Kuh
+10513,1997-04-22,Sirop d'érable,Condiments,15,341.9999987259507,-27.449988685548306,Germany,Die Wandernde Kuh
+10514,1997-04-22,Sir Rodney's Marmalade,Confections,39,3159.0,78.0,Austria,Ernst Handel
+10514,1997-04-22,Rössle Sauerkraut,Produce,35,1595.9999465942383,69.29998397827148,Austria,Ernst Handel
+10514,1997-04-22,Gnocchi di nonna Alice,Grains/Cereals,70,2660.0,484.4000053405762,Austria,Ernst Handel
+10514,1997-04-22,Louisiana Fiery Hot Pepper Sauce,Condiments,39,820.9499702453613,36.26993751525879,Austria,Ernst Handel
+10514,1997-04-22,Rhönbräu Klosterbier,Beverages,50,387.5,-13.000011444091797,Austria,Ernst Handel
+10515,1997-04-23,Mishi Kobe Niku,Meat/Poultry,16,1319.1999907493591,-188.48006296157837,Germany,QUICK-Stop
+10515,1997-04-23,Pavlova,Confections,50,872.5000381469727,-11.999988555908203,Germany,QUICK-Stop
+10515,1997-04-23,Schoggi Schokolade,Confections,120,5268.000183105469,883.2000732421875,Germany,QUICK-Stop
+10515,1997-04-23,Geitost,Dairy Products,16,33.99999976158142,-5.200001001358032,Germany,QUICK-Stop
+10515,1997-04-23,Camembert Pierrot,Dairy Products,84,2427.5999829769135,-569.5200426578522,Germany,QUICK-Stop
+10516,1997-04-24,Carnarvon Tigers,Seafood,25,1406.2499976716936,88.00000911578536,Ireland,Hungry Owl All-Night Grocers
+10516,1997-04-24,Jack's New England Clam Chowder,Seafood,80,694.7999713838101,-88.4000255644321,Ireland,Hungry Owl All-Night Grocers
+10516,1997-04-24,Singaporean Hokkien Fried Mee,Grains/Cereals,20,280.0,30.0,Ireland,Hungry Owl All-Night Grocers
+10517,1997-04-24,Filo Mix,Grains/Cereals,6,42.0,2.9399986267089844,UK,North/South
+10517,1997-04-24,Raclette Courdavault,Dairy Products,4,220.0,40.52000427246094,UK,North/South
+10517,1997-04-24,Outback Lager,Beverages,6,90.0,8.340002059936523,UK,North/South
+10518,1997-04-25,Guaraná Fantástica,Beverages,5,22.5,3.500000238418579,Mexico,Tortuga Restaurante
+10518,1997-04-25,Côte de Blaye,Beverages,15,3952.5,210.5998992919922,Mexico,Tortuga Restaurante
+10518,1997-04-25,Gula Malacca,Condiments,9,175.05000686645508,13.230010986328125,Mexico,Tortuga Restaurante
+10519,1997-04-28,Ikura,Seafood,16,471.1999996304512,19.520006954669952,Switzerland,Chop-suey Chinese
+10519,1997-04-28,Gnocchi di nonna Alice,Grains/Cereals,40,1520.0,276.8000030517578,Switzerland,Chop-suey Chinese
+10519,1997-04-28,Camembert Pierrot,Dairy Products,10,322.99999974668026,-33.80000330507755,Switzerland,Chop-suey Chinese
+10520,1997-04-29,Guaraná Fantástica,Beverages,8,36.0,5.600000381469727,Norway,Santé Gourmet
+10520,1997-04-29,Perth Pasties,Meat/Poultry,5,163.99999618530273,-0.05001068115234375,Norway,Santé Gourmet
+10521,1997-04-29,Steeleye Stout,Beverages,3,54.0,1.2299995422363281,Argentina,Cactus Comidas para llevar
+10521,1997-04-29,Jack's New England Clam Chowder,Seafood,10,96.49999618530273,-1.400003433227539,Argentina,Cactus Comidas para llevar
+10521,1997-04-29,Scottish Longbreads,Confections,6,75.0,9.479999542236328,Argentina,Cactus Comidas para llevar
+10522,1997-04-30,Chai,Beverages,40,575.9999978542328,-159.99998688697815,Germany,Lehmanns Marktstand
+10522,1997-04-30,Northwoods Cranberry Sauce,Condiments,24,960.0,108.48001098632812,Germany,Lehmanns Marktstand
+10522,1997-04-30,Nord-Ost Matjeshering,Seafood,20,414.2399886912108,-114.95999299824234,Germany,Lehmanns Marktstand
+10522,1997-04-30,Boston Crab Meat,Seafood,25,367.99999099969864,-44.50000900030136,Germany,Lehmanns Marktstand
+10523,1997-05-01,Alice Mutton,Meat/Poultry,25,877.4999985471368,42.999971844255924,UK,Seven Seas Imports
+10523,1997-05-01,Sir Rodney's Marmalade,Confections,15,1093.499998189509,-91.50000181049109,UK,Seven Seas Imports
+10523,1997-05-01,Gravad lax,Seafood,18,421.19999930262566,-43.19998696446419,UK,Seven Seas Imports
+10523,1997-05-01,Jack's New England Clam Chowder,Seafood,6,52.10999785378576,-6.630001917332407,UK,Seven Seas Imports
+10524,1997-05-01,Ikura,Seafood,2,62.0,5.540000915527344,Sweden,Berglunds snabbköp
+10524,1997-05-01,Nord-Ost Matjeshering,Seafood,10,258.8999938964844,-5.6999969482421875,Sweden,Berglunds snabbköp
+10524,1997-05-01,Ipoh Coffee,Beverages,60,2760.0,61.7999267578125,Sweden,Berglunds snabbköp
+10524,1997-05-01,Tourtière,Meat/Poultry,15,111.74999713897705,1.6499948501586914,Sweden,Berglunds snabbköp
+10525,1997-05-02,Inlagd Sill,Seafood,30,570.0,102.29999542236328,France,Bon app'
+10525,1997-05-02,Boston Crab Meat,Seafood,15,248.39999443888667,0.8999944388866652,France,Bon app'
+10526,1997-05-05,Chai,Beverages,8,122.39999914169312,-24.799997806549072,Finland,Wartian Herkku
+10526,1997-05-05,Konbu,Seafood,10,60.0,-1.3000011444091797,Finland,Wartian Herkku
+10526,1997-05-05,Gnocchi di nonna Alice,Grains/Cereals,30,968.9999932050705,36.599995493888855,Finland,Wartian Herkku
+10527,1997-05-05,Chef Anton's Cajun Seasoning,Condiments,50,989.9999983608723,-157.99995586276054,Germany,QUICK-Stop
+10527,1997-05-05,Inlagd Sill,Seafood,30,512.9999991506338,45.29999457299709,Germany,QUICK-Stop
+10528,1997-05-06,Queso Cabrales,Dairy Products,3,63.0,1.3799972534179688,USA,Great Lakes Food Market
+10528,1997-05-06,Geitost,Dairy Products,8,15.999999940395355,-3.6000004410743713,USA,Great Lakes Food Market
+10528,1997-05-06,Mozzarella di Giovanni,Dairy Products,9,313.1999931335449,-4.770023345947266,USA,Great Lakes Food Market
+10529,1997-05-07,Pâté chinois,Meat/Poultry,14,336.0,-9.520004272460938,Belgium,Maison Dewey
+10529,1997-05-07,Scottish Longbreads,Confections,20,250.0,31.599998474121094,Belgium,Maison Dewey
+10529,1997-05-07,Gudbrandsdalsost,Dairy Products,10,360.0,52.90000915527344,Belgium,Maison Dewey
+10530,1997-05-08,Alice Mutton,Meat/Poultry,40,1560.0,224.79995727539062,Austria,Piccolo und mehr
+10530,1997-05-08,Ipoh Coffee,Beverages,25,1150.0,25.749969482421875,Austria,Piccolo und mehr
+10530,1997-05-08,Sirop d'érable,Condiments,20,570.0,77.40001678466797,Austria,Piccolo und mehr
+10530,1997-05-08,Lakkalikööri,Beverages,50,900.0,17.00000762939453,Austria,Piccolo und mehr
+10531,1997-05-08,Raclette Courdavault,Dairy Products,2,110.0,20.26000213623047,Argentina,Océano Atlántico Ltda.
+10532,1997-05-09,Nord-Ost Matjeshering,Seafood,15,388.34999084472656,-8.549995422363281,UK,Eastern Connection
+10532,1997-05-09,Louisiana Hot Spiced Okra,Condiments,24,408.0,60.480010986328125,UK,Eastern Connection
+10533,1997-05-12,Chef Anton's Cajun Seasoning,Condiments,50,1044.9999991804361,-102.99995504319668,Sweden,Folk och fä HB
+10533,1997-05-12,Mozzarella di Giovanni,Dairy Products,24,835.1999816894531,-12.720062255859375,Sweden,Folk och fä HB
+10533,1997-05-12,Röd Kaviar,Seafood,24,341.9999997317791,25.67999240756035,Sweden,Folk och fä HB
+10534,1997-05-12,Nord-Ost Matjeshering,Seafood,10,258.8999938964844,-5.6999969482421875,Germany,Lehmanns Marktstand
+10534,1997-05-12,Boston Crab Meat,Seafood,10,147.19999639987947,-17.800003600120533,Germany,Lehmanns Marktstand
+10534,1997-05-12,Tourtière,Meat/Poultry,10,59.5999982520938,-13.800003273785109,Germany,Lehmanns Marktstand
+10535,1997-05-13,Queso Cabrales,Dairy Products,50,944.9999984353781,-82.00004734098911,Mexico,Antonio Moreno Taquería
+10535,1997-05-13,Boston Crab Meat,Seafood,10,165.5999962925911,0.5999962925911007,Mexico,Antonio Moreno Taquería
+10535,1997-05-13,Ravioli Angelo,Grains/Cereals,5,87.74999985471368,2.1000040508806705,Mexico,Antonio Moreno Taquería
+10535,1997-05-13,Raclette Courdavault,Dairy Products,15,742.4999987706542,69.45001479238272,Mexico,Antonio Moreno Taquería
+10536,1997-05-14,Queso Manchego La Pastora,Dairy Products,15,427.5,-128.85000228881836,Germany,Lehmanns Marktstand
+10536,1997-05-14,Gorgonzola Telino,Dairy Products,20,250.0,25.20000457763672,Germany,Lehmanns Marktstand
+10536,1997-05-14,Geitost,Dairy Products,30,75.0,1.4999985694885254,Germany,Lehmanns Marktstand
+10536,1997-05-14,Camembert Pierrot,Dairy Products,35,892.5,-356.30001068115234,Germany,Lehmanns Marktstand
+10537,1997-05-14,Gorgonzola Telino,Dairy Products,30,375.0,37.80000686645508,Switzerland,Richter Supermarkt
+10537,1997-05-14,Manjimup Dried Apples,Produce,6,318.0,9.299995422363281,Switzerland,Richter Supermarkt
+10537,1997-05-14,Escargots de Bourgogne,Seafood,20,265.0,2.9999923706054688,Switzerland,Richter Supermarkt
+10537,1997-05-14,Mozzarella di Giovanni,Dairy Products,21,730.7999839782715,-11.130054473876953,Switzerland,Richter Supermarkt
+10537,1997-05-14,Röd Kaviar,Seafood,9,135.0,16.37999725341797,Switzerland,Richter Supermarkt
+10538,1997-05-15,Outback Lager,Beverages,7,105.0,9.730002403259277,UK,B's Beverages
+10538,1997-05-15,Mozzarella di Giovanni,Dairy Products,1,34.79999923706055,-0.5300025939941406,UK,B's Beverages
+10539,1997-05-16,Konbu,Seafood,8,48.0,-1.0400009155273438,UK,B's Beverages
+10539,1997-05-16,Sir Rodney's Scones,Confections,15,150.0,24.29999828338623,UK,B's Beverages
+10539,1997-05-16,Geitost,Dairy Products,15,37.5,0.7499992847442627,UK,B's Beverages
+10539,1997-05-16,Maxilaku,Confections,6,120.0,-5.040000915527344,UK,B's Beverages
+10540,1997-05-19,Aniseed Syrup,Condiments,60,600.0,78.60002517700195,Germany,QUICK-Stop
+10540,1997-05-19,Gumbär Gummibärchen,Confections,40,1249.1999816894531,-41.199951171875,Germany,QUICK-Stop
+10540,1997-05-19,Côte de Blaye,Beverages,30,7905.0,421.1997985839844,Germany,QUICK-Stop
+10540,1997-05-19,Scottish Longbreads,Confections,35,437.5,55.299997329711914,Germany,QUICK-Stop
+10541,1997-05-19,Guaraná Fantástica,Beverages,35,141.7499997653067,8.750001434236765,Brazil,Hanari Carnes
+10541,1997-05-19,Côte de Blaye,Beverages,4,948.5999984294176,-49.24002842605114,Brazil,Hanari Carnes
+10541,1997-05-19,Louisiana Fiery Hot Pepper Sauce,Condiments,36,682.0199741515518,-42.30005606085058,Brazil,Hanari Carnes
+10541,1997-05-19,Flotemysost,Dairy Products,9,174.14999971166253,10.260007951408625,Brazil,Hanari Carnes
+10542,1997-05-20,Queso Cabrales,Dairy Products,15,299.2499997653067,-8.850013967603445,Germany,Königlich Essen
+10542,1997-05-20,Tourtière,Meat/Poultry,24,169.85999551802874,-6.3000081440806355,Germany,Königlich Essen
+10543,1997-05-21,Queso Manchego La Pastora,Dairy Products,30,968.9999932050705,-143.70001137256622,Venezuela,LILA-Supermercado
+10543,1997-05-21,Tunnbröd,Grains/Cereals,70,535.4999962449074,-78.40003579854965,Venezuela,LILA-Supermercado
+10544,1997-05-21,Rössle Sauerkraut,Produce,7,319.19998931884766,13.859996795654297,USA,Lonesome Pine Restaurant
+10544,1997-05-21,Laughing Lumberjack Lager,Beverages,7,98.0,0.9100008010864258,USA,Lonesome Pine Restaurant
+10545,1997-05-22,Queso Cabrales,Dairy Products,10,210.0,4.5999908447265625,USA,Lazy K Kountry Store
+10546,1997-05-23,Uncle Bob's Organic Dried Pears,Produce,10,300.0,12.199993133544922,France,Victuailles en stock
+10546,1997-05-23,Steeleye Stout,Beverages,30,540.0,12.299995422363281,France,Victuailles en stock
+10546,1997-05-23,Tarte au sucre,Confections,40,1971.9999694824219,84.79995727539062,France,Victuailles en stock
+10547,1997-05-23,Mascarpone Fabioli,Dairy Products,24,652.7999954223633,-13.440010070800781,UK,Seven Seas Imports
+10547,1997-05-23,Inlagd Sill,Seafood,60,1140.0,204.59999084472656,UK,Seven Seas Imports
+10548,1997-05-26,Sasquatch Ale,Beverages,10,105.0,-9.89999771118164,Germany,Toms Spezialitäten
+10548,1997-05-26,Jack's New England Clam Chowder,Seafood,14,135.09999465942383,-1.9600048065185547,Germany,Toms Spezialitäten
+10549,1997-05-27,Gorgonzola Telino,Dairy Products,55,584.3749959021807,-33.82499150931835,Germany,QUICK-Stop
+10549,1997-05-27,Rogede sild,Seafood,100,807.4999943375587,43.500007688999176,Germany,QUICK-Stop
+10549,1997-05-27,Manjimup Dried Apples,Produce,48,2162.3999848365784,-307.2000517845154,Germany,QUICK-Stop
+10550,1997-05-28,Alice Mutton,Meat/Poultry,8,280.79999953508377,13.759990990161896,Spain,Godos Cocina Típica
+10550,1997-05-28,Teatime Chocolate Biscuits,Confections,10,91.99999809265137,4.399995803833008,Spain,Godos Cocina Típica
+10550,1997-05-28,Sir Rodney's Scones,Confections,6,53.99999991059303,3.719999223947525,Spain,Godos Cocina Típica
+10550,1997-05-28,Sirop d'érable,Condiments,10,256.4999995753169,10.20000796765089,Spain,Godos Cocina Típica
+10551,1997-05-28,Pavlova,Confections,40,593.300021779537,-114.29999958276767,Portugal,Furia Bacalhau e Frutos do Mar
+10551,1997-05-28,Steeleye Stout,Beverages,20,305.9999978542328,-45.800005197525024,Portugal,Furia Bacalhau e Frutos do Mar
+10551,1997-05-28,Gula Malacca,Condiments,40,778.0000305175781,58.800048828125,Portugal,Furia Bacalhau e Frutos do Mar
+10552,1997-05-29,Gudbrandsdalsost,Dairy Products,18,648.0,95.22001647949219,Venezuela,HILARION-Abastos
+10552,1997-05-29,Rhönbräu Klosterbier,Beverages,30,232.5,-7.800006866455078,Venezuela,HILARION-Abastos
+10553,1997-05-30,Queso Cabrales,Dairy Products,15,315.0,6.899986267089844,Finland,Wartian Herkku
+10553,1997-05-30,Pavlova,Confections,14,244.30001068115234,-3.359996795654297,Finland,Wartian Herkku
+10553,1997-05-30,Gustaf's Knäckebröd,Grains/Cereals,24,504.0,85.19998168945312,Finland,Wartian Herkku
+10553,1997-05-30,Gorgonzola Telino,Dairy Products,30,375.0,37.80000686645508,Finland,Wartian Herkku
+10553,1997-05-30,Steeleye Stout,Beverages,6,108.0,2.4599990844726562,Finland,Wartian Herkku
+10554,1997-05-30,Pavlova,Confections,30,497.3250213537365,-33.37499466799204,Germany,Ottilies Käseladen
+10554,1997-05-30,Tunnbröd,Grains/Cereals,20,170.99999986588955,-4.400009289383888,Germany,Ottilies Käseladen
+10554,1997-05-30,Tarte au sucre,Confections,20,936.6999847695231,-6.900021333992527,Germany,Ottilies Käseladen
+10554,1997-05-30,Original Frankfurter grüne Soße,Condiments,10,123.49999990314245,-0.49999628216028214,Germany,Ottilies Käseladen
+10555,1997-06-02,Tofu,Produce,30,557.999997921288,-144.60000436753035,USA,Save-a-lot Markets
+10555,1997-06-02,Teatime Chocolate Biscuits,Confections,35,257.5999936997891,-49.00001431107518,USA,Save-a-lot Markets
+10555,1997-06-02,Guaraná Fantástica,Beverages,18,64.79999975860119,-3.5999993830919266,USA,Save-a-lot Markets
+10555,1997-06-02,Manjimup Dried Apples,Produce,20,847.9999968409538,-181.00001841783524,USA,Save-a-lot Markets
+10555,1997-06-02,Gnocchi di nonna Alice,Grains/Cereals,40,1215.999995470047,-27.20000147819519,USA,Save-a-lot Markets
+10556,1997-06-03,Mozzarella di Giovanni,Dairy Products,24,835.1999816894531,-12.720062255859375,Denmark,Simons bistro
+10557,1997-06-03,Wimmers gute Semmelknödel,Grains/Cereals,30,997.5,120.0,Germany,Lehmanns Marktstand
+10557,1997-06-03,Rhönbräu Klosterbier,Beverages,20,155.0,-5.200004577636719,Germany,Lehmanns Marktstand
+10558,1997-06-04,Zaanse koeken,Confections,25,237.5,-11.750006675720215,UK,Around the Horn
+10558,1997-06-04,Manjimup Dried Apples,Produce,20,1060.0,30.999984741210938,UK,Around the Horn
+10558,1997-06-04,Filo Mix,Grains/Cereals,30,210.0,14.699993133544922,UK,Around the Horn
+10558,1997-06-04,Perth Pasties,Meat/Poultry,18,590.3999862670898,-0.1800384521484375,UK,Around the Horn
+10558,1997-06-04,Röd Kaviar,Seafood,3,45.0,5.459999084472656,UK,Around the Horn
+10559,1997-06-05,Jack's New England Clam Chowder,Seafood,12,110.0099955649674,-7.470003977268931,France,Blondesddsl père et fils
+10559,1997-06-05,Pâté chinois,Meat/Poultry,18,410.3999996781349,-33.840005815029144,France,Blondesddsl père et fils
+10560,1997-06-06,Nord-Ost Matjeshering,Seafood,20,517.7999877929688,-11.399993896484375,Germany,Frankenversand
+10560,1997-06-06,Tarte au sucre,Confections,15,554.6249914169312,-153.07501316070557,Germany,Frankenversand
+10561,1997-06-06,Gula Malacca,Condiments,10,194.50000762939453,14.70001220703125,Sweden,Folk och fä HB
+10561,1997-06-06,Manjimup Dried Apples,Produce,50,2650.0,77.49996185302734,Sweden,Folk och fä HB
+10562,1997-06-09,Geitost,Dairy Products,20,44.999999925494194,-4.000001028180122,Italy,Reggiani Caseifici
+10562,1997-06-09,Tarte au sucre,Confections,10,443.6999923989177,-28.100010652840126,Italy,Reggiani Caseifici
+10563,1997-06-10,Inlagd Sill,Seafood,25,475.0,85.24999618530273,Brazil,Ricardo Adocicados
+10563,1997-06-10,Filo Mix,Grains/Cereals,70,490.0,34.299983978271484,Brazil,Ricardo Adocicados
+10564,1997-06-10,Alice Mutton,Meat/Poultry,16,592.7999995350838,58.71998244524002,USA,Rattlesnake Canyon Grocery
+10564,1997-06-10,Gorgonzola Telino,Dairy Products,6,71.24999994412065,3.810001317411661,USA,Rattlesnake Canyon Grocery
+10564,1997-06-10,Pâté chinois,Meat/Poultry,25,569.9999995529652,-47.00000807642937,USA,Rattlesnake Canyon Grocery
+10565,1997-06-11,Guaraná Fantástica,Beverages,25,101.24999983236194,6.250001024454832,Canada,Mère Paillarde
+10565,1997-06-11,Wimmers gute Semmelknödel,Grains/Cereals,18,538.6499991081655,12.149999108165503,Canada,Mère Paillarde
+10566,1997-06-12,Queso Cabrales,Dairy Products,35,624.7499956190586,-94.15003642439842,France,Blondesddsl père et fils
+10566,1997-06-12,Carnarvon Tigers,Seafood,18,956.2499932944775,7.1100015342235565,France,Blondesddsl père et fils
+10566,1997-06-12,Lakkalikööri,Beverages,10,180.0,3.4000015258789062,France,Blondesddsl père et fils
+10567,1997-06-12,Gorgonzola Telino,Dairy Products,60,599.9999977648258,-74.39998850226402,Ireland,Hungry Owl All-Night Grocers
+10567,1997-06-12,Manjimup Dried Apples,Produce,3,159.0,4.649997711181641,Ireland,Hungry Owl All-Night Grocers
+10567,1997-06-12,Raclette Courdavault,Dairy Products,40,1759.999993443489,-34.79996383190155,Ireland,Hungry Owl All-Night Grocers
+10568,1997-06-13,Ikura,Seafood,5,155.0,13.85000228881836,Spain,Galería del gastrónomo
+10569,1997-06-16,Gorgonzola Telino,Dairy Products,35,349.9999986961484,-43.39999329298735,USA,Rattlesnake Canyon Grocery
+10569,1997-06-16,Lakkalikööri,Beverages,30,540.0,10.200004577636719,USA,Rattlesnake Canyon Grocery
+10570,1997-06-17,Queso Cabrales,Dairy Products,15,299.2499997653067,-8.850013967603445,Canada,Mère Paillarde
+10570,1997-06-17,Gnocchi di nonna Alice,Grains/Cereals,60,2165.9999983012676,301.20000287890434,Canada,Mère Paillarde
+10571,1997-06-17,Tofu,Produce,11,217.3874984756112,-40.23250236362219,Austria,Ernst Handel
+10571,1997-06-17,Singaporean Hokkien Fried Mee,Grains/Cereals,28,333.1999976634979,-16.800002336502075,Austria,Ernst Handel
+10572,1997-06-18,Pavlova,Confections,12,188.46000792771576,-23.81999848097564,Sweden,Berglunds snabbköp
+10572,1997-06-18,Mascarpone Fabioli,Dairy Products,10,287.99999952316284,10.399997234344482,Sweden,Berglunds snabbköp
+10572,1997-06-18,Boston Crab Meat,Seafood,50,919.9999809265137,94.99998092651367,Sweden,Berglunds snabbköp
+10572,1997-06-18,Rhönbräu Klosterbier,Beverages,15,104.624999826774,-15.525003606453538,Sweden,Berglunds snabbköp
+10573,1997-06-19,Alice Mutton,Meat/Poultry,18,702.0,101.15998077392578,Mexico,Antonio Moreno Taquería
+10573,1997-06-19,Sasquatch Ale,Beverages,40,560.0,100.40000915527344,Mexico,Antonio Moreno Taquería
+10573,1997-06-19,Perth Pasties,Meat/Poultry,25,819.9999809265137,-0.25005340576171875,Mexico,Antonio Moreno Taquería
+10574,1997-06-19,Geitost,Dairy Products,14,35.0,0.6999993324279785,USA,Trail's Head Gourmet Provisioners
+10574,1997-06-19,Boston Crab Meat,Seafood,2,36.79999923706055,3.799999237060547,USA,Trail's Head Gourmet Provisioners
+10574,1997-06-19,Tarte au sucre,Confections,10,492.99999237060547,21.199989318847656,USA,Trail's Head Gourmet Provisioners
+10574,1997-06-19,Wimmers gute Semmelknödel,Grains/Cereals,6,199.5,24.0,USA,Trail's Head Gourmet Provisioners
+10575,1997-06-20,Raclette Courdavault,Dairy Products,12,660.0,121.56001281738281,Germany,Morgenstern Gesundkost
+10575,1997-06-20,Vegie-spread,Condiments,6,263.40000915527344,9.060012817382812,Germany,Morgenstern Gesundkost
+10575,1997-06-20,Mozzarella di Giovanni,Dairy Products,30,1043.9999771118164,-15.900077819824219,Germany,Morgenstern Gesundkost
+10575,1997-06-20,Lakkalikööri,Beverages,10,180.0,3.4000015258789062,Germany,Morgenstern Gesundkost
+10576,1997-06-23,Chai,Beverages,10,180.0,-3.9999961853027344,Mexico,Tortuga Restaurante
+10576,1997-06-23,Gorgonzola Telino,Dairy Products,20,250.0,25.20000457763672,Mexico,Tortuga Restaurante
+10576,1997-06-23,Gula Malacca,Condiments,21,408.4500160217285,30.870025634765625,Mexico,Tortuga Restaurante
+10577,1997-06-23,Chartreuse verte,Beverages,10,180.0,20.900001525878906,USA,Trail's Head Gourmet Provisioners
+10577,1997-06-23,Rhönbräu Klosterbier,Beverages,20,155.0,-5.200004577636719,USA,Trail's Head Gourmet Provisioners
+10577,1997-06-23,Original Frankfurter grüne Soße,Condiments,18,234.0,10.800006866455078,USA,Trail's Head Gourmet Provisioners
+10578,1997-06-24,Steeleye Stout,Beverages,20,360.0,8.199996948242188,UK,B's Beverages
+10578,1997-06-24,Ravioli Angelo,Grains/Cereals,6,117.0,14.22000503540039,UK,B's Beverages
+10579,1997-06-25,Genen Shouyu,Condiments,10,155.0,6.400003433227539,USA,Let's Stop N Shop
+10579,1997-06-25,Rhönbräu Klosterbier,Beverages,21,162.75,-5.460004806518555,USA,Let's Stop N Shop
+10580,1997-06-26,Tofu,Produce,15,331.312499740161,-19.987501404248178,Germany,Ottilies Käseladen
+10580,1997-06-26,Jack's New England Clam Chowder,Seafood,9,82.50749667372554,-5.602502982951705,Germany,Ottilies Käseladen
+10580,1997-06-26,Louisiana Fiery Hot Pepper Sauce,Condiments,30,599.9249777857215,-3.6750473912804864,Germany,Ottilies Käseladen
+10581,1997-06-26,Rhönbräu Klosterbier,Beverages,50,309.99999884516,-90.50001259893179,Brazil,Familia Arquibaldo
+10582,1997-06-27,Ravioli Angelo,Grains/Cereals,4,78.0,9.480003356933594,Germany,Blauer See Delikatessen
+10582,1997-06-27,Lakkalikööri,Beverages,14,252.0,4.760002136230469,Germany,Blauer See Delikatessen
+10583,1997-06-30,Thüringer Rostbratwurst,Meat/Poultry,10,1237.9000091552734,80.40000915527344,Finland,Wartian Herkku
+10583,1997-06-30,Camembert Pierrot,Dairy Products,24,693.599995136261,-162.72001218795776,Finland,Wartian Herkku
+10583,1997-06-30,Gudbrandsdalsost,Dairy Products,10,305.9999978542328,-1.0999929904937744,Finland,Wartian Herkku
+10584,1997-06-30,Gorgonzola Telino,Dairy Products,50,593.7499995343387,31.75001097843051,France,Blondesddsl père et fils
+10585,1997-07-01,Zaanse koeken,Confections,15,142.5,-7.050004005432129,Brazil,Wellington Importadora
+10586,1997-07-02,Filo Mix,Grains/Cereals,4,23.799999833106995,-2.240001082420349,Italy,Reggiani Caseifici
+10587,1997-07-02,Gumbär Gummibärchen,Confections,6,187.37999725341797,-6.17999267578125,Brazil,Que Delícia
+10587,1997-07-02,Steeleye Stout,Beverages,20,360.0,8.199996948242188,Brazil,Que Delícia
+10587,1997-07-02,Original Frankfurter grüne Soße,Condiments,20,260.0,12.000007629394531,Brazil,Que Delícia
+10588,1997-07-03,Carnarvon Tigers,Seafood,40,1999.9999925494194,-109.19998914003372,Germany,QUICK-Stop
+10588,1997-07-03,Singaporean Hokkien Fried Mee,Grains/Cereals,100,1119.9999958276749,-130.00000417232513,Germany,QUICK-Stop
+10589,1997-07-04,Steeleye Stout,Beverages,4,72.0,1.6399993896484375,USA,Great Lakes Food Market
+10590,1997-07-07,Chai,Beverages,20,360.0,-7.999992370605469,Canada,Mère Paillarde
+10590,1997-07-07,Original Frankfurter grüne Soße,Condiments,60,740.9999994188547,-2.999977692961693,Canada,Mère Paillarde
+10591,1997-07-07,Aniseed Syrup,Condiments,14,140.0,18.34000587463379,Denmark,Vaffeljernet
+10591,1997-07-07,Uncle Bob's Organic Dried Pears,Produce,10,300.0,12.199993133544922,Denmark,Vaffeljernet
+10591,1997-07-07,Tourtière,Meat/Poultry,50,372.49999046325684,5.499982833862305,Denmark,Vaffeljernet
+10592,1997-07-08,Genen Shouyu,Condiments,25,368.12499971129,-0.24999165907502174,Germany,Lehmanns Marktstand
+10592,1997-07-08,Gumbär Gummibärchen,Confections,5,148.34249770928176,-12.957493898384257,Germany,Lehmanns Marktstand
+10593,1997-07-09,Sir Rodney's Marmalade,Confections,21,1360.799994930625,-298.20000506937504,Germany,Lehmanns Marktstand
+10593,1997-07-09,Gudbrandsdalsost,Dairy Products,20,575.9999978542328,-38.19998383522034,Germany,Lehmanns Marktstand
+10593,1997-07-09,Lakkalikööri,Beverages,4,57.59999978542328,-13.039999604225159,Germany,Lehmanns Marktstand
+10594,1997-07-09,Filo Mix,Grains/Cereals,24,168.0,11.759994506835938,USA,Old World Delicatessen
+10594,1997-07-09,Escargots de Bourgogne,Seafood,30,397.5,4.499988555908203,USA,Old World Delicatessen
+10595,1997-07-10,Steeleye Stout,Beverages,30,405.0,-122.70000457763672,Austria,Ernst Handel
+10595,1997-07-10,Sirop d'érable,Condiments,120,2565.0,-390.5998992919922,Austria,Ernst Handel
+10595,1997-07-10,Gudbrandsdalsost,Dairy Products,65,1755.0,-241.14994049072266,Austria,Ernst Handel
+10596,1997-07-11,Gnocchi di nonna Alice,Grains/Cereals,5,151.99999943375587,-3.400000184774399,USA,White Clover Markets
+10596,1997-07-11,Vegie-spread,Condiments,24,842.8800261569022,-174.4799591946603,USA,White Clover Markets
+10596,1997-07-11,Rhönbräu Klosterbier,Beverages,30,185.999999307096,-54.300007559359074,USA,White Clover Markets
+10597,1997-07-11,Guaraná Fantástica,Beverages,35,125.99999953061342,-6.999998800456524,Austria,Piccolo und mehr
+10597,1997-07-11,Ravioli Angelo,Grains/Cereals,20,390.0,47.40001678466797,Austria,Piccolo und mehr
+10597,1997-07-11,Louisiana Fiery Hot Pepper Sauce,Condiments,12,202.0799919229746,-39.36001814782617,Austria,Piccolo und mehr
+10598,1997-07-14,Schoggi Schokolade,Confections,50,2195.0000762939453,368.0000305175781,USA,Rattlesnake Canyon Grocery
+10598,1997-07-14,Flotemysost,Dairy Products,9,193.5,29.610008239746094,USA,Rattlesnake Canyon Grocery
+10599,1997-07-15,Tarte au sucre,Confections,10,492.99999237060547,21.199989318847656,UK,B's Beverages
+10600,1997-07-16,Tourtière,Meat/Poultry,4,29.799999237060547,0.4399986267089844,USA,Hungry Coyote Import Store
+10600,1997-07-16,Röd Kaviar,Seafood,30,450.0,54.59999084472656,USA,Hungry Coyote Import Store
+10601,1997-07-16,Konbu,Seafood,60,360.0,-7.800006866455078,Venezuela,HILARION-Abastos
+10601,1997-07-16,Raclette Courdavault,Dairy Products,35,1925.0,354.5500373840332,Venezuela,HILARION-Abastos
+10602,1997-07-17,Original Frankfurter grüne Soße,Condiments,5,48.75,-13.249998092651367,Denmark,Vaffeljernet
+10603,1997-07-18,Gustaf's Knäckebröd,Grains/Cereals,48,1008.0,170.39996337890625,USA,Save-a-lot Markets
+10603,1997-07-18,Maxilaku,Confections,25,474.99999962747097,-46.000004187226295,USA,Save-a-lot Markets
+10604,1997-07-18,Chocolade,Confections,6,68.84999988600612,-2.430000800639391,Portugal,Furia Bacalhau e Frutos do Mar
+10604,1997-07-18,Lakkalikööri,Beverages,10,161.9999997317791,-14.599998742341995,Portugal,Furia Bacalhau e Frutos do Mar
+10605,1997-07-21,Pavlova,Confections,30,497.3250213537365,-33.37499466799204,Canada,Mère Paillarde
+10605,1997-07-21,Raclette Courdavault,Dairy Products,20,1044.9999991804361,147.60002054274082,Canada,Mère Paillarde
+10605,1997-07-21,Camembert Pierrot,Dairy Products,70,2260.999998226762,-236.60002313554287,Canada,Mère Paillarde
+10605,1997-07-21,Flotemysost,Dairy Products,15,306.3749997597188,33.22501349262893,Canada,Mère Paillarde
+10606,1997-07-22,Chef Anton's Cajun Seasoning,Condiments,20,351.9999986886978,-107.19998300075531,Brazil,Tradição Hipermercados
+10606,1997-07-22,Pâté chinois,Meat/Poultry,20,383.9999985694885,-109.6000075340271,Brazil,Tradição Hipermercados
+10606,1997-07-22,Tarte au sucre,Confections,10,394.3999924272299,-77.40001062452791,Brazil,Tradição Hipermercados
+10607,1997-07-22,Uncle Bob's Organic Dried Pears,Produce,45,1350.0,54.89996910095215,USA,Save-a-lot Markets
+10607,1997-07-22,Alice Mutton,Meat/Poultry,100,3900.0,561.9998931884766,USA,Save-a-lot Markets
+10607,1997-07-22,Geitost,Dairy Products,14,35.0,0.6999993324279785,USA,Save-a-lot Markets
+10607,1997-07-22,Boston Crab Meat,Seafood,42,772.7999839782715,79.79998397827148,USA,Save-a-lot Markets
+10607,1997-07-22,Mozzarella di Giovanni,Dairy Products,12,417.59999084472656,-6.3600311279296875,USA,Save-a-lot Markets
+10608,1997-07-23,Gnocchi di nonna Alice,Grains/Cereals,28,1064.0,193.76000213623047,Germany,Toms Spezialitäten
+10609,1997-07-24,Chai,Beverages,3,54.0,-1.1999988555908203,France,Du monde entier
+10609,1997-07-24,Ikura,Seafood,10,310.0,27.70000457763672,France,Du monde entier
+10609,1997-07-24,Sir Rodney's Scones,Confections,6,60.0,9.719999313354492,France,Du monde entier
+10610,1997-07-25,Inlagd Sill,Seafood,21,299.25,-28.140003204345703,France,La maison d'Asie
+10611,1997-07-25,Chai,Beverages,6,108.0,-2.3999977111816406,Poland,Wolski  Zajazd
+10611,1997-07-25,Chang,Beverages,10,190.0,-5.599994659423828,Poland,Wolski  Zajazd
+10611,1997-07-25,Camembert Pierrot,Dairy Products,15,510.0,-25.20000457763672,Poland,Wolski  Zajazd
+10612,1997-07-28,Ikura,Seafood,70,2170.0,193.90003204345703,USA,Save-a-lot Markets
+10612,1997-07-28,Inlagd Sill,Seafood,55,1045.0,187.54999160766602,USA,Save-a-lot Markets
+10612,1997-07-28,Maxilaku,Confections,18,360.0,-15.120002746582031,USA,Save-a-lot Markets
+10612,1997-07-28,Camembert Pierrot,Dairy Products,40,1360.0,-67.20001220703125,USA,Save-a-lot Markets
+10612,1997-07-28,Lakkalikööri,Beverages,80,1440.0,27.20001220703125,USA,Save-a-lot Markets
+10613,1997-07-29,Konbu,Seafood,8,43.199999928474426,-5.8400009870529175,Venezuela,HILARION-Abastos
+10613,1997-07-29,Rhönbräu Klosterbier,Beverages,40,310.0,-10.400009155273438,Venezuela,HILARION-Abastos
+10614,1997-07-29,Queso Cabrales,Dairy Products,14,294.0,6.4399871826171875,Germany,Blauer See Delikatessen
+10614,1997-07-29,Sir Rodney's Scones,Confections,8,80.0,12.959999084472656,Germany,Blauer See Delikatessen
+10614,1997-07-29,Chartreuse verte,Beverages,5,90.0,10.450000762939453,Germany,Blauer See Delikatessen
+10615,1997-07-30,Pâté chinois,Meat/Poultry,5,120.0,-3.4000015258789062,Finland,Wilman Kala
+10616,1997-07-31,Côte de Blaye,Beverages,15,3754.874997055158,12.974896347150207,USA,Great Lakes Food Market
+10616,1997-07-31,Gnocchi di nonna Alice,Grains/Cereals,14,532.0,96.88000106811523,USA,Great Lakes Food Market
+10616,1997-07-31,Outback Lager,Beverages,15,213.74999983236194,9.600004982203245,USA,Great Lakes Food Market
+10616,1997-07-31,Flotemysost,Dairy Products,15,306.3749997597188,33.22501349262893,USA,Great Lakes Food Market
+10617,1997-07-31,Raclette Courdavault,Dairy Products,30,1402.4999901652336,56.40002220869064,USA,Great Lakes Food Market
+10618,1997-08-01,Grandma's Boysenberry Spread,Condiments,70,1750.0,294.0000534057617,Canada,Mère Paillarde
+10618,1997-08-01,Gnocchi di nonna Alice,Grains/Cereals,20,760.0,138.4000015258789,Canada,Mère Paillarde
+10618,1997-08-01,Scottish Longbreads,Confections,15,187.5,23.69999885559082,Canada,Mère Paillarde
+10619,1997-08-04,Sir Rodney's Scones,Confections,42,420.0,68.03999519348145,Canada,Mère Paillarde
+10619,1997-08-04,Gustaf's Knäckebröd,Grains/Cereals,40,840.0,141.99996948242188,Canada,Mère Paillarde
+10620,1997-08-05,Guaraná Fantástica,Beverages,5,22.5,3.500000238418579,Canada,Laughing Bacchus Wine Cellars
+10620,1997-08-05,Filo Mix,Grains/Cereals,5,35.0,2.4499988555908203,Canada,Laughing Bacchus Wine Cellars
+10621,1997-08-05,Teatime Chocolate Biscuits,Confections,5,45.999999046325684,2.199997901916504,UK,Island Trading
+10621,1997-08-05,Tunnbröd,Grains/Cereals,10,90.0,2.2999954223632812,UK,Island Trading
+10621,1997-08-05,Outback Lager,Beverages,20,300.0,27.800006866455078,UK,Island Trading
+10621,1997-08-05,Flotemysost,Dairy Products,15,322.5,49.350013732910156,UK,Island Trading
+10622,1997-08-06,Chang,Beverages,20,380.0,-11.199989318847656,Brazil,Ricardo Adocicados
+10622,1997-08-06,Scottish Longbreads,Confections,18,179.99999932944775,-16.56000204384327,Brazil,Ricardo Adocicados
+10623,1997-08-07,Tofu,Produce,21,488.25,-3.5700016021728516,Germany,Frankenversand
+10623,1997-08-07,Teatime Chocolate Biscuits,Confections,15,124.19999721944333,-7.2000062137842065,Germany,Frankenversand
+10623,1997-08-07,Sir Rodney's Scones,Confections,25,224.99999962747097,15.499996766448021,Germany,Frankenversand
+10623,1997-08-07,Guaraná Fantástica,Beverages,3,13.5,2.1000001430511475,Germany,Frankenversand
+10623,1997-08-07,Steeleye Stout,Beverages,30,485.9999991953373,-41.70000538229942,Germany,Frankenversand
+10624,1997-08-07,Rössle Sauerkraut,Produce,10,455.99998474121094,19.79999542236328,USA,The Cracker Box
+10624,1997-08-07,Thüringer Rostbratwurst,Meat/Poultry,6,742.7400054931641,48.24000549316406,USA,The Cracker Box
+10624,1997-08-07,Gula Malacca,Condiments,10,194.50000762939453,14.70001220703125,USA,The Cracker Box
+10625,1997-08-08,Tofu,Produce,3,69.75,-0.5100002288818359,Mexico,Ana Trujillo Emparedados y helados
+10625,1997-08-08,Singaporean Hokkien Fried Mee,Grains/Cereals,5,70.0,7.5,Mexico,Ana Trujillo Emparedados y helados
+10625,1997-08-08,Camembert Pierrot,Dairy Products,10,340.0,-16.800003051757812,Mexico,Ana Trujillo Emparedados y helados
+10626,1997-08-11,Perth Pasties,Meat/Poultry,12,393.59999084472656,-0.120025634765625,Sweden,Berglunds snabbköp
+10626,1997-08-11,Camembert Pierrot,Dairy Products,20,680.0,-33.600006103515625,Sweden,Berglunds snabbköp
+10626,1997-08-11,Flotemysost,Dairy Products,20,430.0,65.80001831054688,Sweden,Berglunds snabbköp
+10627,1997-08-11,Tarte au sucre,Confections,15,739.4999885559082,31.799983978271484,USA,Save-a-lot Markets
+10627,1997-08-11,Röd Kaviar,Seafood,35,446.24999687075615,-15.050013810396194,USA,Save-a-lot Markets
+10628,1997-08-12,Chai,Beverages,25,450.0,-9.999990463256836,France,Blondesddsl père et fils
+10629,1997-08-12,Thüringer Rostbratwurst,Meat/Poultry,20,2475.800018310547,160.80001831054688,Spain,Godos Cocina Típica
+10629,1997-08-12,Wimmers gute Semmelknödel,Grains/Cereals,9,299.25,36.0,Spain,Godos Cocina Típica
+10630,1997-08-13,Pâté chinois,Meat/Poultry,12,273.5999997854233,-22.560003876686096,Germany,Königlich Essen
+10630,1997-08-13,Lakkalikööri,Beverages,35,630.0,11.900005340576172,Germany,Königlich Essen
+10631,1997-08-14,Rhönbräu Klosterbier,Beverages,8,55.7999999076128,-8.280001923441887,France,La maison d'Asie
+10632,1997-08-14,Chang,Beverages,30,541.4999995753169,-45.29998440295458,Germany,Die Wandernde Kuh
+10632,1997-08-14,Geitost,Dairy Products,20,47.4999999627471,-1.5000009909272194,Germany,Die Wandernde Kuh
+10633,1997-08-15,Queso Manchego La Pastora,Dairy Products,36,1162.7999918460846,-172.44001364707947,Austria,Ernst Handel
+10633,1997-08-15,Konbu,Seafood,13,66.29999953508377,-13.390001952648163,Austria,Ernst Handel
+10633,1997-08-15,Gumbär Gummibärchen,Confections,35,929.0924798664452,-200.00746138721695,Austria,Ernst Handel
+10633,1997-08-15,Tarte au sucre,Confections,80,3352.3999246120457,-422.00009980201685,Austria,Ernst Handel
+10634,1997-08-15,Uncle Bob's Organic Dried Pears,Produce,35,1050.0,42.69997596740723,France,Folies gourmandes
+10634,1997-08-15,Carnarvon Tigers,Seafood,50,3125.0,488.5000228881836,France,Folies gourmandes
+10634,1997-08-15,Manjimup Dried Apples,Produce,15,795.0,23.249988555908203,France,Folies gourmandes
+10634,1997-08-15,Rhönbräu Klosterbier,Beverages,2,15.5,-0.5200004577636719,France,Folies gourmandes
+10635,1997-08-18,Chef Anton's Cajun Seasoning,Condiments,10,197.99999967217445,-31.59999117255211,Italy,Magazzini Alimentari Riuniti
+10635,1997-08-18,Chef Anton's Gumbo Mix,Condiments,15,288.2250046726316,11.325018405541755,Italy,Magazzini Alimentari Riuniti
+10635,1997-08-18,Gustaf's Knäckebröd,Grains/Cereals,40,840.0,141.99996948242188,Italy,Magazzini Alimentari Riuniti
+10636,1997-08-19,Chef Anton's Cajun Seasoning,Condiments,25,550.0,-23.999977111816406,Finland,Wartian Herkku
+10636,1997-08-19,Escargots de Bourgogne,Seafood,6,79.5,0.8999977111816406,Finland,Wartian Herkku
+10637,1997-08-19,Queso Cabrales,Dairy Products,10,210.0,4.5999908447265625,Brazil,Queen Cozinha
+10637,1997-08-19,Valkoinen suklaa,Confections,25,385.93749969732016,-6.062507932074368,Brazil,Queen Cozinha
+10637,1997-08-19,Gnocchi di nonna Alice,Grains/Cereals,60,2165.9999983012676,301.20000287890434,Brazil,Queen Cozinha
+10638,1997-08-20,Rogede sild,Seafood,20,190.0,37.200002670288086,Venezuela,LINO-Delicateses
+10638,1997-08-20,Louisiana Fiery Hot Pepper Sauce,Condiments,21,442.0499839782715,19.529966354370117,Venezuela,LINO-Delicateses
+10638,1997-08-20,Mozzarella di Giovanni,Dairy Products,60,2087.999954223633,-31.800155639648438,Venezuela,LINO-Delicateses
+10639,1997-08-20,Carnarvon Tigers,Seafood,8,500.0,78.16000366210938,Norway,Santé Gourmet
+10640,1997-08-21,Gudbrandsdalsost,Dairy Products,20,540.0,-74.19998168945312,Germany,Die Wandernde Kuh
+10640,1997-08-21,Outback Lager,Beverages,15,168.75,-35.39999485015869,Germany,Die Wandernde Kuh
+10641,1997-08-22,Chang,Beverages,50,950.0,-27.99997329711914,Venezuela,HILARION-Abastos
+10641,1997-08-22,Boston Crab Meat,Seafood,60,1103.9999771118164,113.9999771118164,Venezuela,HILARION-Abastos
+10642,1997-08-22,Sir Rodney's Scones,Confections,30,239.99999910593033,-11.40000432729721,Denmark,Simons bistro
+10642,1997-08-22,Sirop d'érable,Condiments,20,455.9999983012676,-36.59998491406441,Denmark,Simons bistro
+10643,1997-08-25,Rössle Sauerkraut,Produce,15,512.9999828338623,-141.30000114440918,Germany,Alfreds Futterkiste
+10643,1997-08-25,Chartreuse verte,Beverages,21,283.5,-50.6099967956543,Germany,Alfreds Futterkiste
+10643,1997-08-25,Spegesild,Seafood,2,18.0,-2.200000762939453,Germany,Alfreds Futterkiste
+10644,1997-08-25,Carnarvon Tigers,Seafood,4,224.99999962747097,14.080001458525658,Brazil,Wellington Importadora
+10644,1997-08-25,Ipoh Coffee,Beverages,20,920.0,20.5999755859375,Brazil,Wellington Importadora
+10644,1997-08-25,Spegesild,Seafood,21,226.79999962449074,14.69999161362648,Brazil,Wellington Importadora
+10645,1997-08-26,Carnarvon Tigers,Seafood,20,1250.0,195.40000915527344,Brazil,Hanari Carnes
+10645,1997-08-26,Inlagd Sill,Seafood,15,285.0,51.14999771118164,Brazil,Hanari Carnes
+10646,1997-08-27,Chai,Beverages,15,202.5,-73.4999942779541,Ireland,Hungry Owl All-Night Grocers
+10646,1997-08-27,Ikura,Seafood,18,418.5,-89.6399917602539,Ireland,Hungry Owl All-Night Grocers
+10646,1997-08-27,Flotemysost,Dairy Products,30,483.75,-62.54997253417969,Ireland,Hungry Owl All-Night Grocers
+10646,1997-08-27,Original Frankfurter grüne Soße,Condiments,35,341.25,-92.74998664855957,Ireland,Hungry Owl All-Night Grocers
+10647,1997-08-27,Teatime Chocolate Biscuits,Confections,30,275.9999942779541,13.199987411499023,Brazil,Que Delícia
+10647,1997-08-27,Chartreuse verte,Beverages,20,360.0,41.80000305175781,Brazil,Que Delícia
+10648,1997-08-28,Gustaf's Knäckebröd,Grains/Cereals,15,315.0,53.2499885559082,Brazil,Ricardo Adocicados
+10648,1997-08-28,Guaraná Fantástica,Beverages,15,57.37499959766865,0.37500031292438507,Brazil,Ricardo Adocicados
+10649,1997-08-28,Rössle Sauerkraut,Produce,20,911.9999694824219,39.59999084472656,Belgium,Maison Dewey
+10649,1997-08-28,Mozzarella di Giovanni,Dairy Products,15,521.9999885559082,-7.950038909912109,Belgium,Maison Dewey
+10650,1997-08-29,Nord-Ost Matjeshering,Seafood,30,776.6999816894531,-17.099990844726562,Brazil,Familia Arquibaldo
+10650,1997-08-29,Perth Pasties,Meat/Poultry,25,778.9999812692404,-41.25005306303501,Brazil,Familia Arquibaldo
+10650,1997-08-29,Tourtière,Meat/Poultry,30,223.4999942779541,3.299989700317383,Brazil,Familia Arquibaldo
+10651,1997-09-01,Teatime Chocolate Biscuits,Confections,12,82.79999828338623,-22.3200044631958,Germany,Die Wandernde Kuh
+10651,1997-09-01,Gustaf's Knäckebröd,Grains/Cereals,20,315.0,-34.00001525878906,Germany,Die Wandernde Kuh
+10652,1997-09-01,Nord-Ost Matjeshering,Seafood,2,38.834999084472656,-14.084999084472656,Brazil,Gourmet Lanchonetes
+10652,1997-09-01,Singaporean Hokkien Fried Mee,Grains/Cereals,20,280.0,30.0,Brazil,Gourmet Lanchonetes
+10653,1997-09-02,Pavlova,Confections,30,471.1500198192894,-59.549996202439104,Germany,Frankenversand
+10653,1997-09-02,Camembert Pierrot,Dairy Products,20,611.999998986721,-101.60000711679459,Germany,Frankenversand
+10654,1997-09-02,Chef Anton's Cajun Seasoning,Condiments,12,237.59999960660934,-37.91998940706253,Sweden,Berglunds snabbköp
+10654,1997-09-02,Chartreuse verte,Beverages,20,323.9999994635582,5.8000025153160095,Sweden,Berglunds snabbköp
+10654,1997-09-02,Tourtière,Meat/Poultry,6,40.22999890342355,-3.8100020121037943,Sweden,Berglunds snabbköp
+10655,1997-09-03,Jack's New England Clam Chowder,Seafood,20,154.39999332129958,-41.40000591576097,Italy,Reggiani Caseifici
+10656,1997-09-04,Tofu,Produce,3,62.7749998960644,-7.485000332817435,USA,Great Lakes Food Market
+10656,1997-09-04,Gula Malacca,Condiments,28,490.14001841455695,-13.29996876806024,USA,Great Lakes Food Market
+10656,1997-09-04,Zaanse koeken,Confections,6,51.29999991506338,-8.52000168710947,USA,Great Lakes Food Market
+10657,1997-09-04,Genen Shouyu,Condiments,50,775.0,32.000017166137695,USA,Save-a-lot Markets
+10657,1997-09-04,Jack's New England Clam Chowder,Seafood,24,231.59999084472656,-3.3600082397460938,USA,Save-a-lot Markets
+10657,1997-09-04,Spegesild,Seafood,45,540.0,85.4999828338623,USA,Save-a-lot Markets
+10657,1997-09-04,Zaanse koeken,Confections,10,95.0,-4.700002670288086,USA,Save-a-lot Markets
+10657,1997-09-04,Gnocchi di nonna Alice,Grains/Cereals,45,1710.0,311.40000343322754,USA,Save-a-lot Markets
+10657,1997-09-04,Camembert Pierrot,Dairy Products,30,1020.0,-50.40000915527344,USA,Save-a-lot Markets
+10658,1997-09-05,Sir Rodney's Scones,Confections,60,600.0,97.19999313354492,Germany,QUICK-Stop
+10658,1997-09-05,Boston Crab Meat,Seafood,70,1223.5999736726285,68.5999736726285,Germany,QUICK-Stop
+10658,1997-09-05,Camembert Pierrot,Dairy Products,55,1776.4999986067414,-185.90001817792654,Germany,QUICK-Stop
+10658,1997-09-05,Original Frankfurter grüne Soße,Condiments,70,864.4999993219972,-3.499973975121975,Germany,QUICK-Stop
+10659,1997-09-05,Gorgonzola Telino,Dairy Products,20,237.49999981373549,12.700004391372204,Brazil,Queen Cozinha
+10659,1997-09-05,Boston Crab Meat,Seafood,24,419.5199909734726,23.519990973472602,Brazil,Queen Cozinha
+10659,1997-09-05,Outback Lager,Beverages,40,569.9999995529652,25.60001328587532,Brazil,Queen Cozinha
+10660,1997-09-08,Sir Rodney's Marmalade,Confections,21,1701.0,42.0,USA,Hungry Coyote Import Store
+10661,1997-09-09,Chartreuse verte,Beverages,3,43.19999983906746,-4.529999703168869,Ireland,Hungry Owl All-Night Grocers
+10661,1997-09-09,Escargots de Bourgogne,Seafood,49,519.3999980650842,-122.50002062693238,Ireland,Hungry Owl All-Night Grocers
+10662,1997-09-09,Scottish Longbreads,Confections,10,125.0,15.799999237060547,USA,Lonesome Pine Restaurant
+10663,1997-09-10,Boston Crab Meat,Seafood,30,524.3999887168408,29.399988716840767,France,Bon app'
+10663,1997-09-10,Singaporean Hokkien Fried Mee,Grains/Cereals,30,398.9999996870756,23.999999687075615,France,Bon app'
+10663,1997-09-10,Manjimup Dried Apples,Produce,20,1006.9999992102385,-22.000016048550606,France,Bon app'
+10664,1997-09-10,Ikura,Seafood,24,632.3999955654144,-45.119993448257446,Portugal,Furia Bacalhau e Frutos do Mar
+10664,1997-09-10,Gnocchi di nonna Alice,Grains/Cereals,12,387.5999972820282,14.639998197555542,Portugal,Furia Bacalhau e Frutos do Mar
+10664,1997-09-10,Louisiana Fiery Hot Pepper Sauce,Condiments,15,268.3874883905054,-33.412524197995594,Portugal,Furia Bacalhau e Frutos do Mar
+10665,1997-09-11,Manjimup Dried Apples,Produce,20,1060.0,30.999984741210938,USA,Lonesome Pine Restaurant
+10665,1997-09-11,Raclette Courdavault,Dairy Products,1,55.0,10.130001068115234,USA,Lonesome Pine Restaurant
+10665,1997-09-11,Lakkalikööri,Beverages,10,180.0,3.4000015258789062,USA,Lonesome Pine Restaurant
+10666,1997-09-12,Thüringer Rostbratwurst,Meat/Poultry,36,4456.440032958984,289.4400329589844,Switzerland,Richter Supermarkt
+10666,1997-09-12,Louisiana Fiery Hot Pepper Sauce,Condiments,10,210.49999237060547,9.299983978271484,Switzerland,Richter Supermarkt
+10667,1997-09-12,Gudbrandsdalsost,Dairy Products,45,1295.9999951720238,-85.94996362924576,Austria,Ernst Handel
+10667,1997-09-12,Flotemysost,Dairy Products,14,240.7999991029501,-14.139988079667091,Austria,Ernst Handel
+10668,1997-09-15,Gorgonzola Telino,Dairy Products,8,89.99999985098839,0.08000168204307556,Germany,Die Wandernde Kuh
+10668,1997-09-15,Pâté chinois,Meat/Poultry,4,86.39999985694885,-12.320001363754272,Germany,Die Wandernde Kuh
+10668,1997-09-15,Wimmers gute Semmelknödel,Grains/Cereals,15,448.8749992568046,10.124999256804585,Germany,Die Wandernde Kuh
+10669,1997-09-15,Inlagd Sill,Seafood,30,570.0,102.29999542236328,Denmark,Simons bistro
+10670,1997-09-16,Tunnbröd,Grains/Cereals,32,288.0,7.3599853515625,Germany,Frankenversand
+10670,1997-09-16,Spegesild,Seafood,60,720.0,113.9999771118164,Germany,Frankenversand
+10670,1997-09-16,Laughing Lumberjack Lager,Beverages,25,350.0,3.250002861022949,Germany,Frankenversand
+10670,1997-09-16,Röd Kaviar,Seafood,50,750.0,90.99998474121094,Germany,Frankenversand
+10670,1997-09-16,Rhönbräu Klosterbier,Beverages,25,193.75,-6.500005722045898,Germany,Frankenversand
+10671,1997-09-17,Pavlova,Confections,10,174.50000762939453,-2.3999977111816406,France,France restauration
+10671,1997-09-17,Tarte au sucre,Confections,10,492.99999237060547,21.199989318847656,France,France restauration
+10671,1997-09-17,Louisiana Fiery Hot Pepper Sauce,Condiments,12,252.59999084472656,11.159980773925781,France,France restauration
+10672,1997-09-17,Côte de Blaye,Beverages,15,3557.249994110316,-184.65010659769177,Sweden,Berglunds snabbköp
+10672,1997-09-17,Flotemysost,Dairy Products,12,258.0,39.480010986328125,Sweden,Berglunds snabbköp
+10673,1997-09-18,Pavlova,Confections,3,52.35000228881836,-0.7199993133544922,Finland,Wilman Kala
+10673,1997-09-18,Singaporean Hokkien Fried Mee,Grains/Cereals,6,84.0,9.0,Finland,Wilman Kala
+10673,1997-09-18,Ipoh Coffee,Beverages,6,276.0,6.17999267578125,Finland,Wilman Kala
+10674,1997-09-18,Tunnbröd,Grains/Cereals,5,45.0,1.1499977111816406,UK,Island Trading
+10675,1997-09-19,Tofu,Produce,30,697.5,-5.100002288818359,Germany,Frankenversand
+10675,1997-09-19,Perth Pasties,Meat/Poultry,10,327.99999237060547,-0.1000213623046875,Germany,Frankenversand
+10675,1997-09-19,Escargots de Bourgogne,Seafood,30,397.5,4.499988555908203,Germany,Frankenversand
+10676,1997-09-22,Ikura,Seafood,2,62.0,5.540000915527344,Mexico,Tortuga Restaurante
+10676,1997-09-22,Teatime Chocolate Biscuits,Confections,7,64.39999866485596,3.0799970626831055,Mexico,Tortuga Restaurante
+10676,1997-09-22,Gula Malacca,Condiments,21,408.4500160217285,30.870025634765625,Mexico,Tortuga Restaurante
+10677,1997-09-22,Gumbär Gummibärchen,Confections,30,796.3649827426673,-171.4349669033288,Mexico,Antonio Moreno Taquería
+10677,1997-09-22,Geitost,Dairy Products,8,16.99999988079071,-2.600000500679016,Mexico,Antonio Moreno Taquería
+10678,1997-09-23,Queso Manchego La Pastora,Dairy Products,100,3800.0,90.99998474121094,USA,Save-a-lot Markets
+10678,1997-09-23,Geitost,Dairy Products,30,75.0,1.4999985694885254,USA,Save-a-lot Markets
+10678,1997-09-23,Jack's New England Clam Chowder,Seafood,120,1157.9999542236328,-16.80004119873047,USA,Save-a-lot Markets
+10678,1997-09-23,Tourtière,Meat/Poultry,30,223.4999942779541,3.299989700317383,USA,Save-a-lot Markets
+10679,1997-09-23,Raclette Courdavault,Dairy Products,12,660.0,121.56001281738281,France,Blondesddsl père et fils
+10680,1997-09-24,Pavlova,Confections,50,654.3750286102295,-230.12499809265137,USA,Old World Delicatessen
+10680,1997-09-24,Gorgonzola Telino,Dairy Products,20,187.5,-37.29999542236328,USA,Old World Delicatessen
+10680,1997-09-24,Singaporean Hokkien Fried Mee,Grains/Cereals,40,420.0,-80.0,USA,Old World Delicatessen
+10681,1997-09-25,Teatime Chocolate Biscuits,Confections,30,248.39999443888667,-14.400012427568413,USA,Great Lakes Food Market
+10681,1997-09-25,Sir Rodney's Scones,Confections,12,107.99999982118607,7.43999844789505,USA,Great Lakes Food Market
+10681,1997-09-25,Wimmers gute Semmelknödel,Grains/Cereals,28,931.0,112.0,USA,Great Lakes Food Market
+10682,1997-09-25,Geitost,Dairy Products,30,75.0,1.4999985694885254,Mexico,Antonio Moreno Taquería
+10682,1997-09-25,Louisiana Hot Spiced Okra,Condiments,4,68.0,10.080001831054688,Mexico,Antonio Moreno Taquería
+10682,1997-09-25,Rhönbräu Klosterbier,Beverages,30,232.5,-7.800006866455078,Mexico,Antonio Moreno Taquería
+10683,1997-09-26,Filo Mix,Grains/Cereals,9,63.0,4.409997940063477,France,Du monde entier
+10684,1997-09-26,Boston Crab Meat,Seafood,20,367.99999237060547,37.99999237060547,Germany,Ottilies Käseladen
+10684,1997-09-26,Zaanse koeken,Confections,40,380.0,-18.800010681152344,Germany,Ottilies Käseladen
+10684,1997-09-26,Camembert Pierrot,Dairy Products,30,1020.0,-50.40000915527344,Germany,Ottilies Käseladen
+10685,1997-09-29,Ikura,Seafood,20,620.0,55.40000915527344,Brazil,Gourmet Lanchonetes
+10685,1997-09-29,Jack's New England Clam Chowder,Seafood,4,38.599998474121094,-0.5600013732910156,Brazil,Gourmet Lanchonetes
+10685,1997-09-29,Zaanse koeken,Confections,15,142.5,-7.050004005432129,Brazil,Gourmet Lanchonetes
+10686,1997-09-30,Alice Mutton,Meat/Poultry,30,935.9999965131283,-65.40003553032875,Austria,Piccolo und mehr
+10686,1997-09-30,Gumbär Gummibärchen,Confections,15,468.4499931335449,-15.449981689453125,Austria,Piccolo und mehr
+10687,1997-09-30,Mishi Kobe Niku,Meat/Poultry,50,3637.5,-1074.0001678466797,Ireland,Hungry Owl All-Night Grocers
+10687,1997-09-30,Thüringer Rostbratwurst,Meat/Poultry,10,1237.9000091552734,80.40000915527344,Ireland,Hungry Owl All-Night Grocers
+10687,1997-09-30,Inlagd Sill,Seafood,6,85.5,-8.040000915527344,Ireland,Hungry Owl All-Night Grocers
+10688,1997-10-01,Ikura,Seafood,18,502.1999991685152,-5.939992591738701,Denmark,Vaffeljernet
+10688,1997-10-01,Rössle Sauerkraut,Produce,60,2462.3999135255817,-154.8000223875042,Denmark,Vaffeljernet
+10688,1997-10-01,Sasquatch Ale,Beverages,14,196.0,35.1400032043457,Denmark,Vaffeljernet
+10689,1997-10-01,Chai,Beverages,35,472.5,-171.49998664855957,Sweden,Berglunds snabbköp
+10690,1997-10-02,Gnocchi di nonna Alice,Grains/Cereals,20,570.0,-51.599998474121094,Brazil,Hanari Carnes
+10690,1997-10-02,Original Frankfurter grüne Soße,Condiments,30,292.5,-79.4999885559082,Brazil,Hanari Carnes
+10691,1997-10-03,Chai,Beverages,30,540.0,-11.999988555908203,Germany,QUICK-Stop
+10691,1997-10-03,Thüringer Rostbratwurst,Meat/Poultry,40,4951.600036621094,321.60003662109375,Germany,QUICK-Stop
+10691,1997-10-03,Ipoh Coffee,Beverages,40,1840.0,41.199951171875,Germany,QUICK-Stop
+10691,1997-10-03,Gula Malacca,Condiments,24,466.8000183105469,35.280029296875,Germany,QUICK-Stop
+10691,1997-10-03,Tarte au sucre,Confections,48,2366.3999633789062,101.75994873046875,Germany,QUICK-Stop
+10692,1997-10-03,Vegie-spread,Condiments,20,878.0000305175781,30.200042724609375,Germany,Alfreds Futterkiste
+10693,1997-10-06,Mishi Kobe Niku,Meat/Poultry,6,582.0,16.619979858398438,USA,White Clover Markets
+10693,1997-10-06,Tourtière,Meat/Poultry,60,379.9499876081944,-60.45002154707902,USA,White Clover Markets
+10693,1997-10-06,Gudbrandsdalsost,Dairy Products,30,917.9999935626984,-3.2999789714813232,USA,White Clover Markets
+10693,1997-10-06,Röd Kaviar,Seafood,15,191.2499986588955,-6.450005918741226,USA,White Clover Markets
+10694,1997-10-06,Uncle Bob's Organic Dried Pears,Produce,90,2700.0,109.7999382019043,Germany,QUICK-Stop
+10694,1997-10-06,Raclette Courdavault,Dairy Products,25,1375.0,253.25002670288086,Germany,QUICK-Stop
+10694,1997-10-06,Outback Lager,Beverages,50,750.0,69.5000171661377,Germany,QUICK-Stop
+10695,1997-10-07,Northwoods Cranberry Sauce,Condiments,10,400.0,45.20000457763672,Finland,Wilman Kala
+10695,1997-10-07,Queso Manchego La Pastora,Dairy Products,4,152.0,3.6399993896484375,Finland,Wilman Kala
+10695,1997-10-07,Guaraná Fantástica,Beverages,20,90.0,14.000000953674316,Finland,Wilman Kala
+10696,1997-10-08,Alice Mutton,Meat/Poultry,20,780.0,112.39997863769531,USA,White Clover Markets
+10696,1997-10-08,Spegesild,Seafood,18,216.0,34.19999313354492,USA,White Clover Markets
+10697,1997-10-08,Teatime Chocolate Biscuits,Confections,7,48.29999899864197,-13.020002603530884,Venezuela,LINO-Delicateses
+10697,1997-10-08,Steeleye Stout,Beverages,9,121.5,-36.810001373291016,Venezuela,LINO-Delicateses
+10697,1997-10-08,Escargots de Bourgogne,Seafood,30,298.125,-94.8750114440918,Venezuela,LINO-Delicateses
+10697,1997-10-08,Outback Lager,Beverages,30,337.5,-70.79998970031738,Venezuela,LINO-Delicateses
+10698,1997-10-09,Queso Cabrales,Dairy Products,15,315.0,6.899986267089844,Austria,Ernst Handel
+10698,1997-10-09,Alice Mutton,Meat/Poultry,8,296.3999997675419,29.35999122262001,Austria,Ernst Handel
+10698,1997-10-09,Thüringer Rostbratwurst,Meat/Poultry,12,1411.206009330243,22.206009330242978,Austria,Ernst Handel
+10698,1997-10-09,Louisiana Fiery Hot Pepper Sauce,Condiments,65,1299.8374518690632,-7.962602681107683,Austria,Ernst Handel
+10698,1997-10-09,Outback Lager,Beverages,8,113.99999991059303,5.120002657175064,Austria,Ernst Handel
+10699,1997-10-09,Zaanse koeken,Confections,12,114.0,-5.640003204345703,Germany,Morgenstern Gesundkost
+10700,1997-10-10,Chai,Beverages,5,71.9999997317791,-19.99999836087227,USA,Save-a-lot Markets
+10700,1997-10-10,Sasquatch Ale,Beverages,12,134.39999949932098,-3.479997754096985,USA,Save-a-lot Markets
+10700,1997-10-10,Scottish Longbreads,Confections,40,399.9999985098839,-36.80000454187393,USA,Save-a-lot Markets
+10700,1997-10-10,Flotemysost,Dairy Products,60,1031.9999961555004,-60.59994891285896,USA,Save-a-lot Markets
+10701,1997-10-13,Raclette Courdavault,Dairy Products,42,1963.499986231327,78.9600310921669,Ireland,Hungry Owl All-Night Grocers
+10701,1997-10-13,Flotemysost,Dairy Products,20,365.4999974370003,1.3000157475471497,Ireland,Hungry Owl All-Night Grocers
+10701,1997-10-13,Lakkalikööri,Beverages,35,535.4999962449074,-82.59999841451645,Ireland,Hungry Owl All-Night Grocers
+10702,1997-10-13,Aniseed Syrup,Condiments,6,60.0,7.860002517700195,Germany,Alfreds Futterkiste
+10702,1997-10-13,Lakkalikööri,Beverages,15,270.0,5.100002288818359,Germany,Alfreds Futterkiste
+10703,1997-10-14,Chang,Beverages,5,95.0,-2.799997329711914,Sweden,Folk och fä HB
+10703,1997-10-14,Raclette Courdavault,Dairy Products,35,1925.0,354.5500373840332,Sweden,Folk och fä HB
+10703,1997-10-14,Röd Kaviar,Seafood,35,525.0,63.699989318847656,Sweden,Folk och fä HB
+10704,1997-10-14,Chef Anton's Cajun Seasoning,Condiments,6,132.0,-5.7599945068359375,Brazil,Queen Cozinha
+10704,1997-10-14,Guaraná Fantástica,Beverages,35,157.5,24.500001668930054,Brazil,Queen Cozinha
+10704,1997-10-14,Chocolade,Confections,24,306.0,20.87999725341797,Brazil,Queen Cozinha
+10705,1997-10-15,Gorgonzola Telino,Dairy Products,20,250.0,25.20000457763672,Venezuela,HILARION-Abastos
+10705,1997-10-15,Mascarpone Fabioli,Dairy Products,4,128.0,16.959999084472656,Venezuela,HILARION-Abastos
+10706,1997-10-16,Pavlova,Confections,20,349.00001525878906,-4.799995422363281,USA,Old World Delicatessen
+10706,1997-10-16,Ipoh Coffee,Beverages,24,1104.0,24.719970703125,USA,Old World Delicatessen
+10706,1997-10-16,Raclette Courdavault,Dairy Products,8,440.0,81.04000854492188,USA,Old World Delicatessen
+10707,1997-10-16,Pâté chinois,Meat/Poultry,21,504.0,-14.280006408691406,UK,Around the Horn
+10707,1997-10-16,Ravioli Angelo,Grains/Cereals,40,780.0,94.80003356933594,UK,Around the Horn
+10707,1997-10-16,Outback Lager,Beverages,28,356.9999974966049,-24.07999289035797,UK,Around the Horn
+10708,1997-10-17,Chef Anton's Gumbo Mix,Condiments,4,85.4000015258789,11.560005187988281,USA,The Big Cheese
+10708,1997-10-17,Inlagd Sill,Seafood,5,95.0,17.049999237060547,USA,The Big Cheese
+10709,1997-10-17,Northwoods Cranberry Sauce,Condiments,40,1600.0,180.80001831054688,Brazil,Gourmet Lanchonetes
+10709,1997-10-17,Manjimup Dried Apples,Produce,28,1484.0,43.39997863769531,Brazil,Gourmet Lanchonetes
+10709,1997-10-17,Camembert Pierrot,Dairy Products,10,340.0,-16.800003051757812,Brazil,Gourmet Lanchonetes
+10710,1997-10-20,Teatime Chocolate Biscuits,Confections,5,45.999999046325684,2.199997901916504,Italy,Franchi S.p.A.
+10710,1997-10-20,Zaanse koeken,Confections,5,47.5,-2.350001335144043,Italy,Franchi S.p.A.
+10711,1997-10-21,Teatime Chocolate Biscuits,Confections,12,110.39999771118164,5.279994964599609,USA,Save-a-lot Markets
+10711,1997-10-21,Jack's New England Clam Chowder,Seafood,42,405.2999839782715,-5.880014419555664,USA,Save-a-lot Markets
+10711,1997-10-21,Perth Pasties,Meat/Poultry,120,3935.9999084472656,-1.20025634765625,USA,Save-a-lot Markets
+10712,1997-10-21,Perth Pasties,Meat/Poultry,3,93.47999775230885,-4.9500063675642,Ireland,Hungry Owl All-Night Grocers
+10712,1997-10-21,Gnocchi di nonna Alice,Grains/Cereals,30,1140.0,207.60000228881836,Ireland,Hungry Owl All-Night Grocers
+10713,1997-10-22,Ikura,Seafood,18,558.0,49.860008239746094,USA,Save-a-lot Markets
+10713,1997-10-22,Gumbär Gummibärchen,Confections,30,936.8999862670898,-30.89996337890625,USA,Save-a-lot Markets
+10713,1997-10-22,Rogede sild,Seafood,110,1045.0,204.60001468658447,USA,Save-a-lot Markets
+10713,1997-10-22,Spegesild,Seafood,24,288.0,45.59999084472656,USA,Save-a-lot Markets
+10714,1997-10-22,Chang,Beverages,30,427.5,-159.29998397827148,USA,Save-a-lot Markets
+10714,1997-10-22,Alice Mutton,Meat/Poultry,27,789.75,-111.51002883911133,USA,Save-a-lot Markets
+10714,1997-10-22,Zaanse koeken,Confections,50,356.25,-142.25001335144043,USA,Save-a-lot Markets
+10714,1997-10-22,Gnocchi di nonna Alice,Grains/Cereals,18,513.0,-46.439998626708984,USA,Save-a-lot Markets
+10714,1997-10-22,Escargots de Bourgogne,Seafood,12,119.25,-37.95000457763672,USA,Save-a-lot Markets
+10715,1997-10-23,Ikura,Seafood,21,651.0,58.17000961303711,France,Bon app'
+10715,1997-10-23,Flotemysost,Dairy Products,30,645.0,98.70002746582031,France,Bon app'
+10716,1997-10-24,Sir Rodney's Scones,Confections,5,50.0,8.09999942779541,Argentina,Rancho grande
+10716,1997-10-24,Manjimup Dried Apples,Produce,7,371.0,10.849994659423828,Argentina,Rancho grande
+10716,1997-10-24,Sirop d'érable,Condiments,10,285.0,38.700008392333984,Argentina,Rancho grande
+10717,1997-10-24,Sir Rodney's Scones,Confections,32,303.9999997615814,35.839996099472046,Germany,Frankenversand
+10717,1997-10-24,Tourtière,Meat/Poultry,15,111.74999713897705,1.6499948501586914,Germany,Frankenversand
+10717,1997-10-24,Gudbrandsdalsost,Dairy Products,25,854.9999993294477,87.25002221763134,Germany,Frankenversand
+10718,1997-10-27,Queso Manchego La Pastora,Dairy Products,36,1368.0,32.75999450683594,Germany,Königlich Essen
+10718,1997-10-27,Pavlova,Confections,20,349.00001525878906,-4.799995422363281,Germany,Königlich Essen
+10718,1997-10-27,Inlagd Sill,Seafood,40,760.0,136.39999389648438,Germany,Königlich Essen
+10718,1997-10-27,Tarte au sucre,Confections,20,985.9999847412109,42.39997863769531,Germany,Königlich Essen
+10719,1997-10-27,Carnarvon Tigers,Seafood,12,562.5,-70.25999450683594,USA,Let's Stop N Shop
+10719,1997-10-27,Nord-Ost Matjeshering,Seafood,3,58.252498626708984,-21.127498626708984,USA,Let's Stop N Shop
+10719,1997-10-27,Tourtière,Meat/Poultry,40,223.4999942779541,-70.10001182556152,USA,Let's Stop N Shop
+10720,1997-10-28,Steeleye Stout,Beverages,21,378.0,8.609996795654297,Brazil,Que Delícia
+10720,1997-10-28,Flotemysost,Dairy Products,8,172.0,26.32000732421875,Brazil,Que Delícia
+10721,1997-10-29,Gula Malacca,Condiments,50,923.8750355150551,24.875058403238654,Germany,QUICK-Stop
+10722,1997-10-29,Chang,Beverages,3,57.0,-1.6799983978271484,USA,Save-a-lot Markets
+10722,1997-10-29,Gorgonzola Telino,Dairy Products,50,625.0,63.0000114440918,USA,Save-a-lot Markets
+10722,1997-10-29,Scottish Longbreads,Confections,45,562.5,71.09999656677246,USA,Save-a-lot Markets
+10722,1997-10-29,Rhönbräu Klosterbier,Beverages,42,325.5,-10.92000961303711,USA,Save-a-lot Markets
+10723,1997-10-30,Gumbär Gummibärchen,Confections,15,468.4499931335449,-15.449981689453125,USA,White Clover Markets
+10724,1997-10-30,Ikura,Seafood,16,496.0,44.32000732421875,Canada,Mère Paillarde
+10724,1997-10-30,Sirop d'érable,Condiments,5,142.5,19.350004196166992,Canada,Mère Paillarde
+10725,1997-10-31,Jack's New England Clam Chowder,Seafood,12,115.79999542236328,-1.6800041198730469,Brazil,Familia Arquibaldo
+10725,1997-10-31,Filo Mix,Grains/Cereals,4,28.0,1.9599990844726562,Brazil,Familia Arquibaldo
+10725,1997-10-31,Pâté chinois,Meat/Poultry,6,144.0,-4.0800018310546875,Brazil,Familia Arquibaldo
+10726,1997-11-03,Chef Anton's Cajun Seasoning,Condiments,25,550.0,-23.999977111816406,UK,Eastern Connection
+10726,1997-11-03,Queso Cabrales,Dairy Products,5,105.0,2.2999954223632812,UK,Eastern Connection
+10727,1997-11-03,Alice Mutton,Meat/Poultry,20,740.9999994188547,73.39997805655003,Italy,Reggiani Caseifici
+10727,1997-11-03,Gnocchi di nonna Alice,Grains/Cereals,10,360.99999971687794,50.20000047981739,Italy,Reggiani Caseifici
+10727,1997-11-03,Raclette Courdavault,Dairy Products,10,522.4999995902181,73.80001027137041,Italy,Reggiani Caseifici
+10728,1997-11-04,Nord-Ost Matjeshering,Seafood,15,388.34999084472656,-8.549995422363281,Brazil,Queen Cozinha
+10728,1997-11-04,Boston Crab Meat,Seafood,6,110.39999771118164,11.39999771118164,Brazil,Queen Cozinha
+10728,1997-11-04,Pâté chinois,Meat/Poultry,12,288.0,-8.160003662109375,Brazil,Queen Cozinha
+10728,1997-11-04,Camembert Pierrot,Dairy Products,15,510.0,-25.20000457763672,Brazil,Queen Cozinha
+10729,1997-11-04,Chai,Beverages,50,900.0,-19.999980926513672,Venezuela,LINO-Delicateses
+10729,1997-11-04,Sir Rodney's Scones,Confections,30,300.0,48.59999656677246,Venezuela,LINO-Delicateses
+10729,1997-11-04,Valkoinen suklaa,Confections,40,650.0,22.79998779296875,Venezuela,LINO-Delicateses
+10730,1997-11-05,Pavlova,Confections,15,248.66251067686824,-16.68749733399602,France,Bon app'
+10730,1997-11-05,Gorgonzola Telino,Dairy Products,3,35.62499997206032,1.9050006587058306,France,Bon app'
+10730,1997-11-05,Louisiana Fiery Hot Pepper Sauce,Condiments,10,199.97499259524048,-1.225015797093505,France,Bon app'
+10731,1997-11-06,Sir Rodney's Scones,Confections,40,379.9999997019768,44.79999512434006,Switzerland,Chop-suey Chinese
+10731,1997-11-06,Manjimup Dried Apples,Produce,30,1510.4999988153577,-33.00002407282591,Switzerland,Chop-suey Chinese
+10732,1997-11-06,Lakkalikööri,Beverages,20,360.0,6.8000030517578125,France,Bon app'
+10733,1997-11-07,Tofu,Produce,16,372.0,-2.720001220703125,Sweden,Berglunds snabbköp
+10733,1997-11-07,Rössle Sauerkraut,Produce,20,911.9999694824219,39.59999084472656,Sweden,Berglunds snabbköp
+10733,1997-11-07,Filo Mix,Grains/Cereals,25,175.0,12.249994277954102,Sweden,Berglunds snabbköp
+10734,1997-11-07,Grandma's Boysenberry Spread,Condiments,30,750.0,126.0000228881836,Brazil,Gourmet Lanchonetes
+10734,1997-11-07,Nord-Ost Matjeshering,Seafood,15,388.34999084472656,-8.549995422363281,Brazil,Gourmet Lanchonetes
+10734,1997-11-07,Lakkalikööri,Beverages,20,360.0,6.8000030517578125,Brazil,Gourmet Lanchonetes
+10735,1997-11-10,Sirop d'érable,Condiments,20,512.9999991506338,20.40001593530178,USA,Let's Stop N Shop
+10735,1997-11-10,Original Frankfurter grüne Soße,Condiments,2,23.39999996125698,-1.399999275803566,USA,Let's Stop N Shop
+10736,1997-11-11,Louisiana Fiery Hot Pepper Sauce,Condiments,40,841.9999694824219,37.19993591308594,Ireland,Hungry Owl All-Night Grocers
+10736,1997-11-11,Rhönbräu Klosterbier,Beverages,20,155.0,-5.200004577636719,Ireland,Hungry Owl All-Night Grocers
+10737,1997-11-11,Konbu,Seafood,4,24.0,-0.5200004577636719,France,Vins et alcools Chevalier
+10737,1997-11-11,Jack's New England Clam Chowder,Seafood,12,115.79999542236328,-1.6800041198730469,France,Vins et alcools Chevalier
+10738,1997-11-12,Pavlova,Confections,3,52.35000228881836,-0.7199993133544922,France,Spécialités du monde
+10739,1997-11-12,Inlagd Sill,Seafood,6,114.0,20.459999084472656,France,Vins et alcools Chevalier
+10739,1997-11-12,Filo Mix,Grains/Cereals,18,126.0,8.819995880126953,France,Vins et alcools Chevalier
+10740,1997-11-13,Rössle Sauerkraut,Produce,5,182.39999321699145,-35.70000144243238,USA,White Clover Markets
+10740,1997-11-13,Steeleye Stout,Beverages,35,503.9999981224537,-111.65000721812248,USA,White Clover Markets
+10740,1997-11-13,Rogede sild,Seafood,40,303.99999886751175,-1.5999957919120789,USA,White Clover Markets
+10740,1997-11-13,Gnocchi di nonna Alice,Grains/Cereals,14,425.59999841451645,-9.520000517368317,USA,White Clover Markets
+10741,1997-11-14,Chang,Beverages,15,227.9999991506338,-65.39999283850193,UK,Around the Horn
+10742,1997-11-14,Aniseed Syrup,Condiments,20,200.0,26.200008392333984,Canada,Bottom-Dollar Markets
+10742,1997-11-14,Camembert Pierrot,Dairy Products,50,1700.0,-84.00001525878906,Canada,Bottom-Dollar Markets
+10742,1997-11-14,Mozzarella di Giovanni,Dairy Products,35,1217.9999732971191,-18.550090789794922,Canada,Bottom-Dollar Markets
+10743,1997-11-17,Spegesild,Seafood,28,319.1999997496605,36.39998906850815,UK,Around the Horn
+10744,1997-11-17,Boston Crab Meat,Seafood,50,735.9999819993973,-89.00001800060272,Denmark,Vaffeljernet
+10745,1997-11-18,Carnarvon Tigers,Seafood,24,1500.0,234.48001098632812,Germany,QUICK-Stop
+10745,1997-11-18,Gula Malacca,Condiments,16,311.20001220703125,23.52001953125,Germany,QUICK-Stop
+10745,1997-11-18,Raclette Courdavault,Dairy Products,45,2475.0,455.85004806518555,Germany,QUICK-Stop
+10745,1997-11-18,Mozzarella di Giovanni,Dairy Products,7,243.59999465942383,-3.7100181579589844,Germany,QUICK-Stop
+10746,1997-11-19,Konbu,Seafood,6,36.0,-0.7800006866455078,Switzerland,Chop-suey Chinese
+10746,1997-11-19,Singaporean Hokkien Fried Mee,Grains/Cereals,28,392.0,42.0,Switzerland,Chop-suey Chinese
+10746,1997-11-19,Tarte au sucre,Confections,9,443.6999931335449,19.07999038696289,Switzerland,Chop-suey Chinese
+10746,1997-11-19,Gudbrandsdalsost,Dairy Products,40,1440.0,211.60003662109375,Switzerland,Chop-suey Chinese
+10747,1997-11-19,Gorgonzola Telino,Dairy Products,8,100.0,10.080001831054688,Austria,Piccolo und mehr
+10747,1997-11-19,Jack's New England Clam Chowder,Seafood,35,337.74998664855957,-4.900012016296387,Austria,Piccolo und mehr
+10747,1997-11-19,Vegie-spread,Condiments,9,395.10001373291016,13.590019226074219,Austria,Piccolo und mehr
+10747,1997-11-19,Gudbrandsdalsost,Dairy Products,30,1080.0,158.7000274658203,Austria,Piccolo und mehr
+10748,1997-11-20,Tunnbröd,Grains/Cereals,44,396.0,10.119979858398438,USA,Save-a-lot Markets
+10748,1997-11-20,Boston Crab Meat,Seafood,40,735.9999847412109,75.99998474121094,USA,Save-a-lot Markets
+10748,1997-11-20,Gnocchi di nonna Alice,Grains/Cereals,28,1064.0,193.76000213623047,USA,Save-a-lot Markets
+10749,1997-11-20,Gnocchi di nonna Alice,Grains/Cereals,15,570.0,103.80000114440918,UK,Island Trading
+10749,1997-11-20,Raclette Courdavault,Dairy Products,6,330.0,60.780006408691406,UK,Island Trading
+10749,1997-11-20,Lakkalikööri,Beverages,10,180.0,3.4000015258789062,UK,Island Trading
+10750,1997-11-21,Tofu,Produce,5,98.812499307096,-18.287501074373722,Finland,Wartian Herkku
+10750,1997-11-21,Rogede sild,Seafood,40,322.9999977350235,17.40000307559967,Finland,Wartian Herkku
+10750,1997-11-21,Raclette Courdavault,Dairy Products,25,1168.7499918043613,47.0000185072422,Finland,Wartian Herkku
+10751,1997-11-24,Gumbär Gummibärchen,Confections,12,337.28399449771644,-49.835985360682,Switzerland,Richter Supermarkt
+10751,1997-11-24,Nord-Ost Matjeshering,Seafood,30,776.6999816894531,-17.099990844726562,Switzerland,Richter Supermarkt
+10751,1997-11-24,Valkoinen suklaa,Confections,20,292.49999951571226,-21.100006587803364,Switzerland,Richter Supermarkt
+10751,1997-11-24,Röd Kaviar,Seafood,15,225.0,27.29999542236328,Switzerland,Richter Supermarkt
+10752,1997-11-24,Chai,Beverages,8,144.0,-3.1999969482421875,UK,North/South
+10752,1997-11-24,Gudbrandsdalsost,Dairy Products,3,108.0,15.870002746582031,UK,North/South
+10753,1997-11-25,Rogede sild,Seafood,4,38.0,7.440000534057617,Italy,Franchi S.p.A.
+10753,1997-11-25,Longlife Tofu,Produce,5,50.0,-2.350001335144043,Italy,Franchi S.p.A.
+10754,1997-11-25,Boston Crab Meat,Seafood,3,55.19999885559082,5.69999885559082,Italy,Magazzini Alimentari Riuniti
+10755,1997-11-26,Zaanse koeken,Confections,30,213.75,-85.35000801086426,France,Bon app'
+10755,1997-11-26,Gnocchi di nonna Alice,Grains/Cereals,30,855.0,-77.39999771118164,France,Bon app'
+10755,1997-11-26,Ravioli Angelo,Grains/Cereals,14,204.75,-35.06998825073242,France,Bon app'
+10755,1997-11-26,Gudbrandsdalsost,Dairy Products,25,675.0,-92.7499771118164,France,Bon app'
+10756,1997-11-27,Carnarvon Tigers,Seafood,21,1049.9999960884452,-57.329994298517704,USA,Split Rail Beer & Ale
+10756,1997-11-27,Inlagd Sill,Seafood,20,303.99999886751175,-7.800004184246063,USA,Split Rail Beer & Ale
+10756,1997-11-27,Scottish Longbreads,Confections,6,59.99999977648258,-5.52000068128109,USA,Split Rail Beer & Ale
+10756,1997-11-27,Gudbrandsdalsost,Dairy Products,20,575.9999978542328,-38.19998383522034,USA,Split Rail Beer & Ale
+10757,1997-11-27,Sasquatch Ale,Beverages,30,420.0,75.30000686645508,USA,Save-a-lot Markets
+10757,1997-11-27,Raclette Courdavault,Dairy Products,7,385.0,70.91000747680664,USA,Save-a-lot Markets
+10757,1997-11-27,Tarte au sucre,Confections,30,1478.9999771118164,63.59996795654297,USA,Save-a-lot Markets
+10757,1997-11-27,Wimmers gute Semmelknödel,Grains/Cereals,24,798.0,96.0,USA,Save-a-lot Markets
+10758,1997-11-28,Gumbär Gummibärchen,Confections,20,624.5999908447266,-20.5999755859375,Switzerland,Richter Supermarkt
+10758,1997-11-28,Filo Mix,Grains/Cereals,60,420.0,29.399986267089844,Switzerland,Richter Supermarkt
+10758,1997-11-28,Outback Lager,Beverages,40,600.0,55.600013732910156,Switzerland,Richter Supermarkt
+10759,1997-11-28,Mascarpone Fabioli,Dairy Products,10,320.0,42.39999771118164,Mexico,Ana Trujillo Emparedados y helados
+10760,1997-12-01,NuNuCa Nuß-Nougat-Creme,Confections,12,126.0,-43.08000183105469,Belgium,Maison Dewey
+10760,1997-12-01,Schoggi Schokolade,Confections,40,1756.0000610351562,294.4000244140625,Belgium,Maison Dewey
+10760,1997-12-01,Ipoh Coffee,Beverages,30,1035.0,-314.10003662109375,Belgium,Maison Dewey
+10761,1997-12-02,NuNuCa Nuß-Nougat-Creme,Confections,35,367.5,-125.65000534057617,USA,Rattlesnake Canyon Grocery
+10761,1997-12-02,Rhönbräu Klosterbier,Beverages,18,139.5,-4.680004119873047,USA,Rattlesnake Canyon Grocery
+10762,1997-12-02,Chartreuse verte,Beverages,16,288.0,33.44000244140625,Sweden,Folk och fä HB
+10762,1997-12-02,Zaanse koeken,Confections,30,285.0,-14.100008010864258,Sweden,Folk och fä HB
+10762,1997-12-02,Manjimup Dried Apples,Produce,28,1484.0,43.39997863769531,Sweden,Folk och fä HB
+10762,1997-12-02,Gnocchi di nonna Alice,Grains/Cereals,60,2280.0,415.2000045776367,Sweden,Folk och fä HB
+10763,1997-12-03,Sir Rodney's Scones,Confections,40,400.0,64.79999542236328,France,Folies gourmandes
+10763,1997-12-03,Gustaf's Knäckebröd,Grains/Cereals,6,126.0,21.29999542236328,France,Folies gourmandes
+10763,1997-12-03,Guaraná Fantástica,Beverages,20,90.0,14.000000953674316,France,Folies gourmandes
+10764,1997-12-03,Aniseed Syrup,Condiments,20,179.99999970197678,6.2000080943107605,Austria,Ernst Handel
+10764,1997-12-03,Chartreuse verte,Beverages,130,2105.9999965131283,37.70001634955406,Austria,Ernst Handel
+10765,1997-12-04,Louisiana Fiery Hot Pepper Sauce,Condiments,80,1515.599942559004,-94.00012457966795,Germany,QUICK-Stop
+10766,1997-12-05,Chang,Beverages,40,760.0,-22.399978637695312,Germany,Ottilies Käseladen
+10766,1997-12-05,Uncle Bob's Organic Dried Pears,Produce,35,1050.0,42.69997596740723,Germany,Ottilies Käseladen
+10766,1997-12-05,Scottish Longbreads,Confections,40,500.0,63.19999694824219,Germany,Ottilies Käseladen
+10767,1997-12-05,Singaporean Hokkien Fried Mee,Grains/Cereals,2,28.0,3.0,Belgium,Suprêmes délices
+10768,1997-12-08,Gustaf's Knäckebröd,Grains/Cereals,4,84.0,14.199996948242188,UK,Around the Horn
+10768,1997-12-08,Gorgonzola Telino,Dairy Products,50,625.0,63.0000114440918,UK,Around the Horn
+10768,1997-12-08,Camembert Pierrot,Dairy Products,15,510.0,-25.20000457763672,UK,Around the Horn
+10768,1997-12-08,Flotemysost,Dairy Products,12,258.0,39.480010986328125,UK,Around the Horn
+10769,1997-12-08,Jack's New England Clam Chowder,Seafood,30,275.0249889124185,-18.675009943172313,Denmark,Vaffeljernet
+10769,1997-12-08,Filo Mix,Grains/Cereals,15,99.7499999217689,2.0999964885413647,Denmark,Vaffeljernet
+10769,1997-12-08,Sirop d'érable,Condiments,20,570.0,77.40001678466797,Denmark,Vaffeljernet
+10769,1997-12-08,Tarte au sucre,Confections,15,739.4999885559082,31.799983978271484,Denmark,Vaffeljernet
+10770,1997-12-09,Queso Cabrales,Dairy Products,15,236.25,-71.85001373291016,Brazil,Hanari Carnes
+10771,1997-12-10,Flotemysost,Dairy Products,16,344.0,52.6400146484375,Austria,Ernst Handel
+10772,1997-12-10,Thüringer Rostbratwurst,Meat/Poultry,18,2228.220016479492,144.7200164794922,Germany,Lehmanns Marktstand
+10772,1997-12-10,Raclette Courdavault,Dairy Products,25,1375.0,253.25002670288086,Germany,Lehmanns Marktstand
+10773,1997-12-11,Alice Mutton,Meat/Poultry,33,1287.0,185.45996475219727,Austria,Ernst Handel
+10773,1997-12-11,Gorgonzola Telino,Dairy Products,70,699.9999973922968,-86.7999865859747,Austria,Ernst Handel
+10773,1997-12-11,Rhönbräu Klosterbier,Beverages,7,43.3999998383224,-12.67000176385045,Austria,Ernst Handel
+10774,1997-12-11,Gorgonzola Telino,Dairy Products,2,18.75,-3.729999542236328,Sweden,Folk och fä HB
+10774,1997-12-11,Louisiana Hot Spiced Okra,Condiments,50,850.0,126.0000228881836,Sweden,Folk och fä HB
+10775,1997-12-12,Ikura,Seafood,6,186.0,16.62000274658203,USA,The Cracker Box
+10775,1997-12-12,Laughing Lumberjack Lager,Beverages,3,42.0,0.3900003433227539,USA,The Cracker Box
+10776,1997-12-15,Gorgonzola Telino,Dairy Products,16,189.9999998509884,10.160003513097763,Austria,Ernst Handel
+10776,1997-12-15,Singaporean Hokkien Fried Mee,Grains/Cereals,12,159.59999987483025,9.599999874830246,Austria,Ernst Handel
+10776,1997-12-15,Rogede sild,Seafood,27,243.6749998088926,37.395003413781524,Austria,Ernst Handel
+10776,1997-12-15,Manjimup Dried Apples,Produce,120,6041.999995261431,-132.00009629130363,Austria,Ernst Handel
+10777,1997-12-15,Singaporean Hokkien Fried Mee,Grains/Cereals,20,223.99999916553497,-26.000000834465027,Brazil,Gourmet Lanchonetes
+10778,1997-12-16,Jack's New England Clam Chowder,Seafood,10,96.49999618530273,-1.400003433227539,Sweden,Berglunds snabbköp
+10779,1997-12-16,Pavlova,Confections,20,349.00001525878906,-4.799995422363281,Germany,Morgenstern Gesundkost
+10779,1997-12-16,Tarte au sucre,Confections,20,985.9999847412109,42.39997863769531,Germany,Morgenstern Gesundkost
+10780,1997-12-16,Outback Lager,Beverages,35,525.0,48.65001201629639,Venezuela,LILA-Supermercado
+10780,1997-12-16,Original Frankfurter grüne Soße,Condiments,15,195.0,9.000005722045898,Venezuela,LILA-Supermercado
+10781,1997-12-17,Tourtière,Meat/Poultry,3,17.87999947562814,-4.140000982135533,Finland,Wartian Herkku
+10781,1997-12-17,Gnocchi di nonna Alice,Grains/Cereals,20,607.9999977350235,-13.600000739097595,Finland,Wartian Herkku
+10781,1997-12-17,Longlife Tofu,Produce,35,350.0,-16.4500093460083,Finland,Wartian Herkku
+10782,1997-12-17,Gorgonzola Telino,Dairy Products,1,12.5,1.260000228881836,Argentina,Cactus Comidas para llevar
+10783,1997-12-18,Gorgonzola Telino,Dairy Products,10,125.0,12.60000228881836,Brazil,Hanari Carnes
+10783,1997-12-18,Côte de Blaye,Beverages,5,1317.5,70.19996643066406,Brazil,Hanari Carnes
+10784,1997-12-18,Inlagd Sill,Seafood,30,570.0,102.29999542236328,Italy,Magazzini Alimentari Riuniti
+10784,1997-12-18,Chartreuse verte,Beverages,2,30.59999978542328,-1.21999990940094,Italy,Magazzini Alimentari Riuniti
+10784,1997-12-18,Mozzarella di Giovanni,Dairy Products,30,887.3999743223192,-172.50008060932146,Italy,Magazzini Alimentari Riuniti
+10785,1997-12-18,Ikura,Seafood,10,310.0,27.70000457763672,Venezuela,GROSELLA-Restaurante
+10785,1997-12-18,Rhönbräu Klosterbier,Beverages,10,77.5,-2.6000022888183594,Venezuela,GROSELLA-Restaurante
+10786,1997-12-19,Northwoods Cranberry Sauce,Condiments,30,959.9999964237213,-104.39998984336853,Brazil,Queen Cozinha
+10786,1997-12-19,Nord-Ost Matjeshering,Seafood,15,310.6799915184081,-86.21999474868176,Brazil,Queen Cozinha
+10786,1997-12-19,Rhönbräu Klosterbier,Beverages,42,260.3999990299344,-76.0200105831027,Brazil,Queen Cozinha
+10787,1997-12-19,Chang,Beverages,15,270.74999978765845,-22.64999220147729,France,La maison d'Asie
+10787,1997-12-19,Thüringer Rostbratwurst,Meat/Poultry,20,2352.0100155504047,37.01001555040466,France,La maison d'Asie
+10788,1997-12-22,Teatime Chocolate Biscuits,Confections,50,436.9999905973673,-1.0000208467245102,Germany,QUICK-Stop
+10788,1997-12-22,Rhönbräu Klosterbier,Beverages,40,294.499999769032,-25.900009386241436,Germany,QUICK-Stop
+10789,1997-12-22,Carnarvon Tigers,Seafood,30,1875.0,293.10001373291016,France,Folies gourmandes
+10789,1997-12-22,Steeleye Stout,Beverages,15,270.0,6.149997711181641,France,Folies gourmandes
+10789,1997-12-22,Vegie-spread,Condiments,30,1317.0000457763672,45.30006408691406,France,Folies gourmandes
+10789,1997-12-22,Scottish Longbreads,Confections,18,225.0,28.439998626708984,France,Folies gourmandes
+10790,1997-12-22,Uncle Bob's Organic Dried Pears,Produce,3,76.4999994635582,-9.840002596378326,Brazil,Gourmet Lanchonetes
+10790,1997-12-22,Gnocchi di nonna Alice,Grains/Cereals,20,645.999995470047,24.399996995925903,Brazil,Gourmet Lanchonetes
+10791,1997-12-23,Thüringer Rostbratwurst,Meat/Poultry,14,1646.4070108852834,25.9070108852834,Germany,Frankenversand
+10791,1997-12-23,Jack's New England Clam Chowder,Seafood,20,183.349992608279,-12.450006628781551,Germany,Frankenversand
+10792,1997-12-23,Chang,Beverages,10,190.0,-5.599994659423828,Poland,Wolski  Zajazd
+10792,1997-12-23,Tourtière,Meat/Poultry,3,22.34999942779541,0.3299989700317383,Poland,Wolski  Zajazd
+10792,1997-12-23,Scottish Longbreads,Confections,15,187.5,23.69999885559082,Poland,Wolski  Zajazd
+10793,1997-12-24,Jack's New England Clam Chowder,Seafood,14,135.09999465942383,-1.9600048065185547,UK,Around the Horn
+10793,1997-12-24,Filo Mix,Grains/Cereals,8,56.0,3.9199981689453125,UK,Around the Horn
+10794,1997-12-24,Tofu,Produce,15,278.999998960644,-72.30000218376517,Brazil,Que Delícia
+10794,1997-12-24,Tourtière,Meat/Poultry,6,35.75999895125628,-8.280001964271065,Brazil,Que Delícia
+10795,1997-12-24,Pavlova,Confections,65,1134.2500495910645,-15.599985122680664,Austria,Ernst Handel
+10795,1997-12-24,Alice Mutton,Meat/Poultry,35,1023.75,-144.5500373840332,Austria,Ernst Handel
+10796,1997-12-25,Gumbär Gummibärchen,Confections,21,524.6639903550447,-152.79597439715258,Venezuela,HILARION-Abastos
+10796,1997-12-25,Gula Malacca,Condiments,10,194.50000762939453,14.70001220703125,Venezuela,HILARION-Abastos
+10796,1997-12-25,Wimmers gute Semmelknödel,Grains/Cereals,35,930.9999965317547,-92.75000346824527,Venezuela,HILARION-Abastos
+10796,1997-12-25,Gudbrandsdalsost,Dairy Products,24,691.1999974250793,-45.839980602264404,Venezuela,HILARION-Abastos
+10797,1997-12-25,Queso Cabrales,Dairy Products,20,420.0,9.199981689453125,Germany,Drachenblut Delikatessen
+10798,1997-12-26,Tarte au sucre,Confections,2,98.5999984741211,4.239997863769531,UK,Island Trading
+10798,1997-12-26,Mozzarella di Giovanni,Dairy Products,10,347.99999237060547,-5.300025939941406,UK,Island Trading
+10799,1997-12-26,Konbu,Seafood,20,101.99999928474426,-20.600003004074097,Germany,Königlich Essen
+10799,1997-12-26,Guaraná Fantástica,Beverages,20,76.4999994635582,0.5000004172325134,Germany,Königlich Essen
+10799,1997-12-26,Raclette Courdavault,Dairy Products,25,1375.0,253.25002670288086,Germany,Königlich Essen
+10800,1997-12-26,Queso Cabrales,Dairy Products,50,944.9999984353781,-82.00004734098911,UK,Seven Seas Imports
+10800,1997-12-26,Manjimup Dried Apples,Produce,10,476.99999921023846,-37.500008419156075,UK,Seven Seas Imports
+10800,1997-12-26,Tourtière,Meat/Poultry,7,46.93499872066081,-4.445002347454427,UK,Seven Seas Imports
+10801,1997-12-29,Alice Mutton,Meat/Poultry,40,1170.0,-165.20004272460938,Spain,Bólido Comidas preparadas
+10801,1997-12-29,Thüringer Rostbratwurst,Meat/Poultry,20,1856.8500137329102,-458.14998626708984,Spain,Bólido Comidas preparadas
+10802,1997-12-29,Nord-Ost Matjeshering,Seafood,25,485.4374885559082,-176.0624885559082,Denmark,Simons bistro
+10802,1997-12-29,Manjimup Dried Apples,Produce,30,1192.5,-351.0000228881836,Denmark,Simons bistro
+10802,1997-12-29,Pâté chinois,Meat/Poultry,60,1080.0,-400.8000183105469,Denmark,Simons bistro
+10802,1997-12-29,Tarte au sucre,Confections,5,184.87499713897705,-51.025004386901855,Denmark,Simons bistro
+10803,1997-12-30,Teatime Chocolate Biscuits,Confections,24,209.7599954867363,-0.4800100064277615,Brazil,Wellington Importadora
+10803,1997-12-30,NuNuCa Nuß-Nougat-Creme,Confections,15,199.4999998435378,-11.850002445280552,Brazil,Wellington Importadora
+10803,1997-12-30,Raclette Courdavault,Dairy Products,15,783.7499993853271,110.70001540705562,Brazil,Wellington Importadora
+10804,1997-12-30,Ikura,Seafood,36,1116.0,99.72001647949219,UK,Seven Seas Imports
+10804,1997-12-30,Rössle Sauerkraut,Produce,24,1094.3999633789062,47.519989013671875,UK,Seven Seas Imports
+10804,1997-12-30,Maxilaku,Confections,4,67.99999952316284,-15.36000108718872,UK,Seven Seas Imports
+10805,1997-12-30,Sasquatch Ale,Beverages,10,140.0,25.10000228881836,USA,The Big Cheese
+10805,1997-12-30,Côte de Blaye,Beverages,10,2635.0,140.39993286132812,USA,The Big Cheese
+10806,1997-12-31,Chang,Beverages,20,285.0,-106.19998931884766,France,Victuailles en stock
+10806,1997-12-31,Louisiana Fiery Hot Pepper Sauce,Condiments,2,42.099998474121094,1.8599967956542969,France,Victuailles en stock
+10806,1997-12-31,Longlife Tofu,Produce,15,112.5,-44.55000400543213,France,Victuailles en stock
+10807,1997-12-31,Boston Crab Meat,Seafood,1,18.399999618530273,1.8999996185302734,Italy,Franchi S.p.A.
